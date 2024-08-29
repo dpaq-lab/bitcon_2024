@@ -1,0 +1,982 @@
+Loan_ID,Gender,Race,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Status
+LP001002,Male,Caucasian,No,0,Graduate,No,5849,0,500,360,1,Urban,Y
+LP001003,Male,African-American,Yes,1,Graduate,No,4583,1508,128,360,1,Rural,N
+LP001005,Male,Native American,Yes,0,Graduate,Yes,3000,0,66,360,1,Urban,Y
+LP001006,Male,Native American,Yes,0,Not Graduate,No,2583,2358,120,360,1,Urban,Y
+LP001008,Male,Native American,No,0,Graduate,No,6000,0,141,360,1,Urban,Y
+LP001011,Male,Native American,Yes,2,Graduate,Yes,5417,4196,267,360,1,Urban,Y
+LP001013,Male,Native American,Yes,0,Not Graduate,No,2333,1516,95,360,1,Urban,Y
+LP001014,Male,African-American,Yes,3,Graduate,No,3036,2504,158,360,0,Semiurban,N
+LP001018,Male,African-American,Yes,2,Graduate,No,4006,1526,168,360,1,Urban,Y
+LP001020,Male,African-American,Yes,1,Graduate,No,12841,10968,349,360,1,Semiurban,N
+LP001024,Male,Caucasian,Yes,2,Graduate,No,3200,700,70,360,1,Urban,Y
+LP001027,Male,Caucasian,Yes,2,Graduate,No,2500,1840,109,360,1,Urban,Y
+LP001028,Male,Caucasian,Yes,2,Graduate,No,3073,8106,200,360,1,Urban,Y
+LP001029,Male,African-American,No,0,Graduate,No,1853,2840,114,360,1,Rural,N
+LP001030,Male,Caucasian,Yes,2,Graduate,No,1299,1086,17,120,1,Urban,Y
+LP001032,Male,Caucasian,No,0,Graduate,No,4950,0,125,360,1,Urban,Y
+LP001034,Male,African-American,No,1,Not Graduate,No,3596,0,100,240,1,Urban,Y
+LP001036,Female,African-American,No,0,Graduate,No,3510,0,76,360,0,Urban,N
+LP001038,Male,African-American,Yes,0,Not Graduate,No,4887,0,133,360,1,Rural,N
+LP001041,Male,African-American,Yes,0,Graduate,No,2600,3500,115,360,1,Urban,Y
+LP001043,Male,Asian,Yes,0,Not Graduate,No,7660,0,104,360,0,Urban,N
+LP001046,Male,African-American,Yes,1,Graduate,No,5955,5625,315,360,1,Urban,Y
+LP001047,Male,Asian,Yes,0,Not Graduate,No,2600,1911,116,360,0,Semiurban,N
+LP001050,Female,Asian,Yes,2,Not Graduate,No,3365,1917,112,360,0,Rural,N
+LP001052,Male,Asian,Yes,1,Graduate,No,3717,2925,151,360,0,Semiurban,N
+LP001066,Male,African-American,Yes,0,Graduate,Yes,9560,0,191,360,1,Semiurban,Y
+LP001068,Male,Caucasian,Yes,0,Graduate,No,2799,2253,122,360,1,Semiurban,Y
+LP001073,Male,Caucasian,Yes,2,Not Graduate,No,4226,1040,110,360,1,Urban,Y
+LP001086,Male,Other,No,0,Not Graduate,No,1442,0,35,360,1,Urban,N
+LP001087,Female,Caucasian,No,2,Graduate,No,3750,2083,120,360,1,Semiurban,Y
+LP001091,Male,Native American,Yes,1,Graduate,No,4166,3369,201,360,1,Urban,N
+LP001095,Male,Native American,No,0,Graduate,No,3167,0,74,360,1,Urban,N
+LP001097,Male,Asian,No,1,Graduate,Yes,4692,0,106,360,1,Rural,N
+LP001098,Male,Caucasian,Yes,0,Graduate,No,3500,1667,114,360,1,Semiurban,Y
+LP001100,Male,Asian,No,3,Graduate,No,12500,3000,320,360,1,Rural,N
+LP001106,Male,Caucasian,Yes,0,Graduate,No,2275,2067,250,360,1,Urban,Y
+LP001109,Male,Asian,Yes,0,Graduate,No,1828,1330,100,360,0,Urban,N
+LP001112,Female,Hispanic,Yes,0,Graduate,No,3667,1459,144,360,1,Semiurban,Y
+LP001114,Male,Hispanic,No,0,Graduate,No,4166,7210,184,360,1,Urban,Y
+LP001116,Male,African-American,No,0,Not Graduate,No,3748,1668,110,360,1,Semiurban,Y
+LP001119,Male,Asian,No,0,Graduate,No,3600,0,80,360,1,Urban,N
+LP001120,Male,Hispanic,No,0,Graduate,No,1800,1213,47,360,1,Urban,Y
+LP001123,Male,Hispanic,Yes,0,Graduate,No,2400,0,75,360,0,Urban,Y
+LP001131,Male,Hispanic,Yes,0,Graduate,No,3941,2336,134,360,1,Semiurban,Y
+LP001136,Male,Caucasian,Yes,0,Not Graduate,Yes,4695,0,96,120,1,Urban,Y
+LP001137,Female,Hispanic,No,0,Graduate,No,3410,0,88,120,1,Urban,Y
+LP001138,Male,Caucasian,Yes,1,Graduate,No,5649,0,44,360,1,Urban,Y
+LP001144,Male,Caucasian,Yes,0,Graduate,No,5821,0,144,360,1,Urban,Y
+LP001146,Female,African-American,Yes,0,Graduate,No,2645,3440,120,360,0,Urban,N
+LP001151,Female,Caucasian,No,0,Graduate,No,4000,2275,144,360,1,Semiurban,Y
+LP001155,Female,Other,Yes,0,Not Graduate,No,1928,1644,100,360,1,Semiurban,Y
+LP001157,Female,Other,No,0,Graduate,No,3086,0,120,360,1,Semiurban,Y
+LP001164,Female,African-American,No,0,Graduate,No,4230,0,112,360,1,Semiurban,N
+LP001179,Male,African-American,Yes,2,Graduate,No,4616,0,134,360,1,Urban,N
+LP001186,Female,African-American,Yes,1,Graduate,Yes,11500,0,286,360,0,Urban,N
+LP001194,Male,Caucasian,Yes,2,Graduate,No,2708,1167,97,360,1,Semiurban,Y
+LP001195,Male,Other,Yes,0,Graduate,No,2132,1591,96,360,1,Semiurban,Y
+LP001197,Male,African-American,Yes,0,Graduate,No,3366,2200,135,360,1,Rural,N
+LP001198,Male,Caucasian,Yes,1,Graduate,No,8080,2250,180,360,1,Urban,Y
+LP001199,Male,Caucasian,Yes,2,Not Graduate,No,3357,2859,144,360,1,Urban,Y
+LP001205,Male,Caucasian,Yes,0,Graduate,No,2500,3796,120,360,1,Urban,Y
+LP001206,Male,Caucasian,Yes,3,Graduate,No,3029,0,99,360,1,Urban,Y
+LP001207,Male,African-American,Yes,0,Not Graduate,Yes,2609,3449,165,180,0,Rural,N
+LP001213,Male,Asian,Yes,1,Graduate,No,4945,0,180,360,0,Rural,N
+LP001222,Female,Asian,No,0,Graduate,No,4166,0,116,360,0,Semiurban,N
+LP001225,Male,Asian,Yes,0,Graduate,No,5726,4595,258,360,1,Semiurban,N
+LP001228,Male,Asian,No,0,Not Graduate,No,3200,2254,126,180,0,Urban,N
+LP001233,Male,Caucasian,Yes,1,Graduate,No,10750,0,312,360,1,Urban,Y
+LP001238,Male,Caucasian,Yes,3,Not Graduate,Yes,7100,0,125,60,1,Urban,Y
+LP001241,Female,Asian,No,0,Graduate,No,4300,0,136,360,0,Semiurban,N
+LP001243,Male,Caucasian,Yes,0,Graduate,No,3208,3066,172,360,1,Urban,Y
+LP001245,Male,Hispanic,Yes,2,Not Graduate,Yes,1875,1875,97,360,1,Semiurban,Y
+LP001248,Male,Hispanic,No,0,Graduate,No,3500,0,81,300,1,Semiurban,Y
+LP001250,Male,Asian,Yes,3,Not Graduate,No,4755,0,95,120,0,Semiurban,N
+LP001253,Male,Hispanic,Yes,3,Graduate,Yes,5266,1774,187,360,1,Semiurban,Y
+LP001255,Male,Asian,No,0,Graduate,No,3750,0,113,480,1,Urban,N
+LP001256,Male,African-American,No,0,Graduate,No,3750,4750,176,360,1,Urban,N
+LP001259,Male,African-American,Yes,1,Graduate,Yes,1000,3022,110,360,1,Urban,N
+LP001263,Male,African-American,Yes,3,Graduate,No,3167,4000,180,300,0,Semiurban,N
+LP001264,Male,Hispanic,Yes,3,Not Graduate,Yes,3333,2166,130,360,1,Semiurban,Y
+LP001265,Female,Caucasian,No,0,Graduate,No,3846,0,111,360,1,Semiurban,Y
+LP001266,Male,Caucasian,Yes,1,Graduate,Yes,2395,0,9,360,1,Semiurban,Y
+LP001267,Female,Native American,Yes,2,Graduate,No,1378,1881,167,360,1,Urban,N
+LP001273,Male,Hispanic,Yes,0,Graduate,No,6000,2250,265,360,0,Semiurban,N
+LP001275,Male,Caucasian,Yes,1,Graduate,No,3988,0,50,240,1,Urban,Y
+LP001279,Male,Caucasian,No,0,Graduate,No,2366,2531,136,360,1,Semiurban,Y
+LP001280,Male,Hispanic,Yes,2,Not Graduate,No,3333,2000,99,360,0,Semiurban,Y
+LP001282,Male,Hispanic,Yes,0,Graduate,No,2500,2118,104,360,1,Semiurban,Y
+LP001289,Male,Hispanic,No,0,Graduate,No,8566,0,210,360,1,Urban,Y
+LP001310,Male,Hispanic,Yes,0,Graduate,No,5695,4167,175,360,1,Semiurban,Y
+LP001316,Male,Other,Yes,0,Graduate,No,2958,2900,131,360,1,Semiurban,Y
+LP001318,Male,Other,Yes,2,Graduate,No,6250,5654,188,180,1,Semiurban,Y
+LP001319,Male,Caucasian,Yes,2,Not Graduate,No,3273,1820,81,360,1,Urban,Y
+LP001322,Male,Caucasian,No,0,Graduate,No,4133,0,122,360,1,Semiurban,Y
+LP001325,Male,Other,No,0,Not Graduate,No,3620,0,25,120,1,Semiurban,Y
+LP001326,Male,Hispanic,No,0,Graduate,No,6782,0,50,360,1,Urban,N
+LP001327,Female,Caucasian,Yes,0,Graduate,No,2484,2302,137,360,1,Semiurban,Y
+LP001333,Male,African-American,Yes,0,Graduate,No,1977,997,50,360,1,Semiurban,Y
+LP001334,Male,African-American,Yes,0,Not Graduate,No,4188,0,115,180,1,Semiurban,Y
+LP001343,Male,Hispanic,Yes,0,Graduate,No,1759,3541,131,360,1,Semiurban,Y
+LP001345,Male,Hispanic,Yes,2,Not Graduate,No,4288,3263,133,180,1,Urban,Y
+LP001349,Male,Hispanic,No,0,Graduate,No,4843,3806,151,360,1,Semiurban,Y
+LP001350,Male,Other,Yes,1,Graduate,No,13650,0,110,360,1,Urban,Y
+LP001356,Male,Caucasian,Yes,0,Graduate,No,4652,3583,50,360,1,Semiurban,Y
+LP001357,Male,Caucasian,Yes,1,Graduate,No,3816,754,160,360,1,Urban,Y
+LP001367,Male,Caucasian,Yes,1,Graduate,No,3052,1030,100,360,1,Urban,Y
+LP001369,Male,Caucasian,Yes,2,Graduate,No,11417,1126,225,360,1,Urban,Y
+LP001370,Male,Asian,No,0,Not Graduate,No,7333,0,120,360,1,Rural,N
+LP001379,Male,Asian,Yes,2,Graduate,No,3800,3600,216,360,0,Urban,N
+LP001384,Male,Native American,Yes,3,Not Graduate,No,2071,754,94,480,1,Semiurban,Y
+LP001385,Male,Hispanic,No,0,Graduate,No,5316,0,136,360,1,Urban,Y
+LP001387,Female,Hispanic,Yes,0,Graduate,No,2929,2333,139,360,1,Semiurban,Y
+LP001391,Male,Asian,Yes,0,Not Graduate,No,3572,4114,152,360,0,Rural,N
+LP001392,Female,Hispanic,No,1,Graduate,Yes,7451,0,120,360,1,Semiurban,Y
+LP001398,Male,Caucasian,No,0,Graduate,No,5050,0,118,360,1,Semiurban,Y
+LP001401,Male,Caucasian,Yes,1,Graduate,No,14583,0,185,180,1,Rural,Y
+LP001404,Female,Caucasian,Yes,0,Graduate,No,3167,2283,154,360,1,Semiurban,Y
+LP001405,Male,Caucasian,Yes,1,Graduate,No,2214,1398,85,360,0,Urban,Y
+LP001421,Male,Asian,Yes,0,Graduate,No,5568,2142,175,360,1,Rural,N
+LP001422,Female,Caucasian,No,0,Graduate,No,10408,0,259,360,1,Urban,Y
+LP001426,Male,Caucasian,Yes,1,Graduate,No,5667,2667,180,360,1,Rural,Y
+LP001430,Female,Native American,No,0,Graduate,No,4166,0,44,360,1,Semiurban,Y
+LP001431,Female,Native American,No,0,Graduate,No,2137,8980,137,360,0,Semiurban,Y
+LP001432,Male,Native American,Yes,2,Graduate,No,2957,0,81,360,1,Semiurban,Y
+LP001439,Male,Caucasian,Yes,0,Not Graduate,No,4300,2014,194,360,1,Rural,Y
+LP001443,Female,Caucasian,No,0,Graduate,No,3692,0,93,360,0,Rural,Y
+LP001448,Male,Caucasian,Yes,3,Graduate,No,23803,0,370,360,1,Rural,Y
+LP001449,Male,Caucasian,No,0,Graduate,No,3865,1640,100,360,1,Rural,Y
+LP001451,Male,African-American,Yes,1,Graduate,Yes,10513,3850,160,180,0,Urban,N
+LP001465,Male,African-American,Yes,0,Graduate,No,6080,2569,182,360,1,Rural,N
+LP001469,Male,Caucasian,No,0,Graduate,Yes,20166,0,650,480,0,Urban,Y
+LP001473,Male,Hispanic,No,0,Graduate,No,2014,1929,74,360,1,Urban,Y
+LP001478,Male,Hispanic,No,0,Graduate,No,2718,0,70,360,1,Semiurban,Y
+LP001482,Male,Caucasian,Yes,0,Graduate,Yes,3459,0,25,120,1,Semiurban,Y
+LP001487,Male,Caucasian,No,0,Graduate,No,4895,0,102,360,1,Semiurban,Y
+LP001488,Male,African-American,Yes,3,Graduate,No,4000,7750,290,360,1,Semiurban,N
+LP001489,Female,African-American,Yes,0,Graduate,No,4583,0,84,360,1,Rural,N
+LP001491,Male,Native American,Yes,2,Graduate,Yes,3316,3500,88,360,1,Urban,Y
+LP001492,Male,African-American,No,0,Graduate,No,14999,0,242,360,0,Semiurban,N
+LP001493,Male,Other,Yes,2,Not Graduate,No,4200,1430,129,360,1,Rural,N
+LP001497,Male,Other,Yes,2,Graduate,No,5042,2083,185,360,1,Rural,N
+LP001498,Male,Native American,No,0,Graduate,No,5417,0,168,360,1,Urban,Y
+LP001504,Male,Native American,No,0,Graduate,Yes,6950,0,175,180,1,Semiurban,Y
+LP001507,Male,Hispanic,Yes,0,Graduate,No,2698,2034,122,360,1,Semiurban,Y
+LP001508,Male,Hispanic,Yes,2,Graduate,No,11757,0,187,180,1,Urban,Y
+LP001514,Female,Caucasian,Yes,0,Graduate,No,2330,4486,100,360,1,Semiurban,Y
+LP001516,Female,Caucasian,Yes,2,Graduate,No,14866,0,70,360,1,Urban,Y
+LP001518,Male,Caucasian,Yes,1,Graduate,No,1538,1425,30,360,1,Urban,Y
+LP001519,Female,African-American,No,0,Graduate,No,10000,1666,225,360,1,Rural,N
+LP001520,Male,Caucasian,Yes,0,Graduate,No,4860,830,125,360,1,Semiurban,Y
+LP001528,Male,African-American,No,0,Graduate,No,6277,0,118,360,0,Rural,N
+LP001529,Male,Caucasian,Yes,0,Graduate,Yes,2577,3750,152,360,1,Rural,Y
+LP001531,Male,African-American,No,0,Graduate,No,9166,0,244,360,1,Urban,N
+LP001532,Male,Asian,Yes,2,Not Graduate,No,2281,0,113,360,1,Rural,N
+LP001535,Male,Native American,No,0,Graduate,No,3254,0,50,360,1,Urban,Y
+LP001536,Male,Native American,Yes,3,Graduate,No,39999,0,600,180,0,Semiurban,Y
+LP001541,Male,Native American,Yes,1,Graduate,No,6000,0,160,360,0,Rural,Y
+LP001543,Male,Native American,Yes,1,Graduate,No,9538,0,187,360,1,Urban,Y
+LP001546,Male,Native American,No,0,Graduate,Yes,2980,2083,120,360,1,Rural,Y
+LP001552,Male,Hispanic,Yes,0,Graduate,No,4583,5625,255,360,1,Semiurban,Y
+LP001560,Male,Hispanic,Yes,0,Not Graduate,No,1863,1041,98,360,1,Semiurban,Y
+LP001562,Male,Asian,Yes,0,Graduate,No,7933,0,275,360,1,Urban,N
+LP001565,Male,Asian,Yes,1,Graduate,No,3089,1280,121,360,0,Semiurban,N
+LP001570,Male,Hispanic,Yes,2,Graduate,No,4167,1447,158,360,1,Rural,Y
+LP001572,Male,Other,Yes,0,Graduate,No,9323,0,75,180,1,Urban,Y
+LP001574,Male,Other,Yes,0,Graduate,No,3707,3166,182,360,1,Rural,Y
+LP001577,Female,Asian,Yes,0,Graduate,No,4583,0,112,360,1,Rural,N
+LP001578,Male,Caucasian,Yes,0,Graduate,No,2439,3333,129,360,1,Rural,Y
+LP001579,Male,African-American,No,0,Graduate,No,2237,0,63,480,0,Semiurban,N
+LP001580,Male,Native American,Yes,2,Graduate,No,8000,0,200,360,1,Semiurban,Y
+LP001581,Male,Native American,Yes,0,Not Graduate,No,1820,1769,95,360,1,Rural,Y
+LP001585,Male,Caucasian,Yes,3,Graduate,No,51763,0,700,300,1,Urban,Y
+LP001586,Male,African-American,Yes,3,Not Graduate,No,3522,0,81,180,1,Rural,N
+LP001594,Male,Caucasian,Yes,0,Graduate,No,5708,5625,187,360,1,Semiurban,Y
+LP001603,Male,African-American,Yes,0,Not Graduate,Yes,4344,736,87,360,1,Semiurban,N
+LP001606,Male,Caucasian,Yes,0,Graduate,No,3497,1964,116,360,1,Rural,Y
+LP001608,Male,Caucasian,Yes,2,Graduate,No,2045,1619,101,360,1,Rural,Y
+LP001610,Male,African-American,Yes,3,Graduate,No,5516,11300,495,360,0,Semiurban,N
+LP001616,Male,Hispanic,Yes,1,Graduate,No,3750,0,116,360,1,Semiurban,Y
+LP001630,Male,African-American,No,0,Not Graduate,No,2333,1451,102,480,0,Urban,N
+LP001633,Male,Native American,Yes,1,Graduate,No,6400,7250,180,360,0,Urban,N
+LP001634,Male,Native American,No,0,Graduate,No,1916,5063,67,360,0,Rural,N
+LP001636,Male,Hispanic,Yes,0,Graduate,No,4600,0,73,180,1,Semiurban,Y
+LP001637,Male,Asian,Yes,1,Graduate,No,33846,0,260,360,1,Semiurban,N
+LP001639,Female,Hispanic,Yes,0,Graduate,No,3625,0,108,360,1,Semiurban,Y
+LP001640,Male,Native American,Yes,0,Graduate,Yes,39147,4750,120,360,1,Semiurban,Y
+LP001641,Male,Asian,Yes,1,Graduate,Yes,2178,0,66,300,0,Rural,N
+LP001643,Male,Native American,Yes,0,Graduate,No,2383,2138,58,360,0,Rural,Y
+LP001644,Male,Caucasian,Yes,0,Graduate,Yes,674,5296,168,360,1,Rural,Y
+LP001647,Male,Native American,Yes,0,Graduate,No,9328,0,188,180,1,Rural,Y
+LP001653,Male,Caucasian,No,0,Not Graduate,No,4885,0,48,360,1,Rural,Y
+LP001656,Male,Native American,No,0,Graduate,No,12000,0,164,360,1,Semiurban,N
+LP001657,Male,Native American,Yes,0,Not Graduate,No,6033,0,160,360,1,Urban,N
+LP001658,Male,Caucasian,No,0,Graduate,No,3858,0,76,360,1,Semiurban,Y
+LP001664,Male,Caucasian,No,0,Graduate,No,4191,0,120,360,1,Rural,Y
+LP001665,Male,Asian,Yes,1,Graduate,No,3125,2583,170,360,1,Semiurban,N
+LP001666,Male,Hispanic,No,0,Graduate,No,8333,3750,187,360,1,Rural,Y
+LP001669,Female,Hispanic,No,0,Not Graduate,No,1907,2365,120,360,1,Urban,Y
+LP001671,Female,Hispanic,Yes,0,Graduate,No,3416,2816,113,360,0,Semiurban,Y
+LP001673,Male,Asian,No,0,Graduate,Yes,11000,0,83,360,1,Urban,N
+LP001674,Male,Native American,Yes,1,Not Graduate,No,2600,2500,90,360,1,Semiurban,Y
+LP001677,Male,Native American,No,2,Graduate,No,4923,0,166,360,0,Semiurban,Y
+LP001682,Male,African-American,Yes,3,Not Graduate,No,3992,0,17,180,1,Urban,N
+LP001688,Male,Native American,Yes,1,Not Graduate,No,3500,1083,135,360,1,Urban,Y
+LP001691,Male,Native American,Yes,2,Not Graduate,No,3917,0,124,360,1,Semiurban,Y
+LP001692,Female,Caucasian,No,0,Not Graduate,No,4408,0,120,360,1,Semiurban,Y
+LP001693,Female,Caucasian,No,0,Graduate,No,3244,0,80,360,1,Urban,Y
+LP001698,Male,Caucasian,No,0,Not Graduate,No,3975,2531,55,360,1,Rural,Y
+LP001699,Male,Caucasian,No,0,Graduate,No,2479,0,59,360,1,Urban,Y
+LP001702,Male,African-American,No,0,Graduate,No,3418,0,127,360,1,Semiurban,N
+LP001708,Female,African-American,No,0,Graduate,No,10000,0,214,360,1,Semiurban,N
+LP001711,Male,Other,Yes,3,Graduate,No,3430,1250,128,360,0,Semiurban,N
+LP001713,Male,Hispanic,Yes,1,Graduate,Yes,7787,0,240,360,1,Urban,Y
+LP001715,Male,Other,Yes,3,Not Graduate,Yes,5703,0,130,360,1,Rural,Y
+LP001716,Male,Other,Yes,0,Graduate,No,3173,3021,137,360,1,Urban,Y
+LP001720,Male,African-American,Yes,3,Not Graduate,No,3850,983,100,360,1,Semiurban,Y
+LP001722,Male,Other,Yes,0,Graduate,No,150,1800,135,360,1,Rural,N
+LP001726,Male,African-American,Yes,0,Graduate,No,3727,1775,131,360,1,Semiurban,Y
+LP001732,Male,Native American,Yes,2,Graduate,No,5000,0,72,360,0,Semiurban,N
+LP001734,Female,African-American,Yes,2,Graduate,No,4283,2383,127,360,1,Semiurban,Y
+LP001736,Male,Native American,Yes,0,Graduate,No,2221,0,60,360,0,Urban,N
+LP001743,Male,Hispanic,Yes,2,Graduate,No,4009,1717,116,360,1,Semiurban,Y
+LP001744,Male,Hispanic,No,0,Graduate,No,2971,2791,144,360,1,Semiurban,Y
+LP001749,Male,Hispanic,Yes,0,Graduate,No,7578,1010,175,360,1,Semiurban,Y
+LP001750,Male,Other,Yes,0,Graduate,No,6250,0,128,360,1,Semiurban,Y
+LP001751,Male,Native American,Yes,0,Graduate,No,3250,0,170,360,1,Rural,N
+LP001754,Male,Caucasian,Yes,1,Not Graduate,Yes,4735,0,138,360,1,Urban,N
+LP001758,Male,Other,Yes,2,Graduate,No,6250,1695,210,360,1,Semiurban,Y
+LP001760,Male,Native American,No,1,Graduate,No,4758,0,158,480,1,Semiurban,Y
+LP001761,Male,Native American,No,0,Graduate,Yes,6400,0,200,360,1,Rural,Y
+LP001765,Male,Caucasian,Yes,1,Graduate,No,2491,2054,104,360,1,Semiurban,Y
+LP001768,Male,Caucasian,Yes,0,Graduate,Yes,3716,0,42,180,1,Rural,Y
+LP001770,Male,Caucasian,No,0,Not Graduate,No,3189,2598,120,360,1,Rural,Y
+LP001776,Female,Caucasian,No,0,Graduate,No,8333,0,280,360,1,Semiurban,Y
+LP001778,Male,Hispanic,Yes,1,Graduate,No,3155,1779,140,360,1,Semiurban,Y
+LP001784,Male,Hispanic,Yes,1,Graduate,No,5500,1260,170,360,1,Rural,Y
+LP001786,Male,Native American,Yes,0,Graduate,No,5746,0,255,360,1,Urban,N
+LP001788,Female,Hispanic,No,0,Graduate,Yes,3463,0,122,360,1,Urban,Y
+LP001790,Female,Caucasian,No,1,Graduate,No,3812,0,112,360,1,Rural,Y
+LP001792,Male,Caucasian,Yes,1,Graduate,No,3315,0,96,360,1,Semiurban,Y
+LP001798,Male,Caucasian,Yes,2,Graduate,No,5819,5000,120,360,1,Rural,Y
+LP001800,Male,Hispanic,Yes,1,Not Graduate,No,2510,1983,140,180,1,Urban,N
+LP001806,Male,Native American,No,0,Graduate,No,2965,5701,155,60,1,Urban,Y
+LP001807,Male,Native American,Yes,2,Graduate,Yes,6250,1300,108,360,1,Rural,Y
+LP001811,Male,Hispanic,Yes,0,Not Graduate,No,3406,4417,123,360,1,Semiurban,Y
+LP001813,Male,Caucasian,No,0,Graduate,Yes,6050,4333,120,180,1,Urban,N
+LP001814,Male,Hispanic,Yes,2,Graduate,No,9703,0,112,360,1,Urban,Y
+LP001819,Male,Hispanic,Yes,1,Not Graduate,No,6608,0,137,180,1,Urban,Y
+LP001824,Male,Native American,Yes,1,Graduate,No,2882,1843,123,480,1,Semiurban,Y
+LP001825,Male,Native American,Yes,0,Graduate,No,1809,1868,90,360,1,Urban,Y
+LP001835,Male,Caucasian,Yes,0,Not Graduate,No,1668,3890,201,360,0,Semiurban,N
+LP001836,Female,African-American,No,2,Graduate,No,3427,0,138,360,1,Urban,N
+LP001841,Male,Caucasian,No,0,Not Graduate,Yes,2583,2167,104,360,1,Rural,Y
+LP001843,Male,Caucasian,Yes,1,Not Graduate,No,2661,7101,279,180,1,Semiurban,Y
+LP001844,Male,Other,No,0,Graduate,Yes,16250,0,192,360,0,Urban,N
+LP001846,Female,Native American,No,3,Graduate,No,3083,0,255,360,1,Rural,Y
+LP001849,Male,Other,No,0,Not Graduate,No,6045,0,115,360,0,Rural,N
+LP001854,Male,Asian,Yes,3,Graduate,No,5250,0,94,360,1,Urban,N
+LP001859,Male,Other,Yes,0,Graduate,No,14683,2100,304,360,1,Rural,N
+LP001864,Male,Asian,Yes,3,Not Graduate,No,4931,0,128,360,0,Semiurban,N
+LP001865,Male,Native American,Yes,1,Graduate,No,6083,4250,330,360,0,Urban,Y
+LP001868,Male,Caucasian,No,0,Graduate,No,2060,2209,134,360,1,Semiurban,Y
+LP001870,Female,Asian,No,1,Graduate,No,3481,0,155,36,1,Semiurban,N
+LP001871,Female,Hispanic,No,0,Graduate,No,7200,0,120,360,1,Rural,Y
+LP001872,Male,Hispanic,No,0,Graduate,Yes,5166,0,128,360,1,Semiurban,Y
+LP001875,Male,Hispanic,No,0,Graduate,No,4095,3447,151,360,1,Rural,Y
+LP001877,Male,Caucasian,Yes,2,Graduate,No,4708,1387,150,360,1,Semiurban,Y
+LP001882,Male,Caucasian,Yes,3,Graduate,No,4333,1811,160,360,0,Urban,Y
+LP001883,Female,Asian,No,0,Graduate,No,3418,0,135,360,1,Rural,N
+LP001884,Female,Caucasian,No,1,Graduate,No,2876,1560,90,360,1,Urban,Y
+LP001888,Female,Caucasian,No,0,Graduate,No,3237,0,30,360,1,Urban,Y
+LP001891,Male,Caucasian,Yes,0,Graduate,No,11146,0,136,360,1,Urban,Y
+LP001892,Male,Caucasian,No,0,Graduate,No,2833,1857,126,360,1,Rural,Y
+LP001894,Male,Caucasian,Yes,0,Graduate,No,2620,2223,150,360,1,Semiurban,Y
+LP001896,Male,Caucasian,Yes,2,Graduate,No,3900,0,90,360,1,Semiurban,Y
+LP001900,Male,Caucasian,Yes,1,Graduate,No,2750,1842,115,360,1,Semiurban,Y
+LP001903,Male,Caucasian,Yes,0,Graduate,No,3993,3274,207,360,1,Semiurban,Y
+LP001904,Male,Caucasian,Yes,0,Graduate,No,3103,1300,80,360,1,Urban,Y
+LP001907,Male,Hispanic,Yes,0,Graduate,No,14583,0,436,360,1,Semiurban,Y
+LP001908,Female,Hispanic,Yes,0,Not Graduate,No,4100,0,124,360,0,Rural,Y
+LP001910,Male,African-American,No,1,Not Graduate,Yes,4053,2426,158,360,0,Urban,N
+LP001914,Male,Hispanic,Yes,0,Graduate,No,3927,800,112,360,1,Semiurban,Y
+LP001915,Male,Hispanic,Yes,2,Graduate,No,2301,985.7999878,78,180,1,Urban,Y
+LP001917,Female,Hispanic,No,0,Graduate,No,1811,1666,54,360,1,Urban,Y
+LP001922,Male,African-American,Yes,0,Graduate,No,20667,0,110,360,1,Rural,N
+LP001924,Male,Hispanic,No,0,Graduate,No,3158,3053,89,360,1,Rural,Y
+LP001925,Female,African-American,No,0,Graduate,Yes,2600,1717,99,300,1,Semiurban,N
+LP001926,Male,Caucasian,Yes,0,Graduate,No,3704,2000,120,360,1,Rural,Y
+LP001931,Female,Caucasian,No,0,Graduate,No,4124,0,115,360,1,Semiurban,Y
+LP001935,Male,Caucasian,No,0,Graduate,No,9508,0,187,360,1,Rural,Y
+LP001936,Male,Caucasian,Yes,0,Graduate,No,3075,2416,139,360,1,Rural,Y
+LP001938,Male,African-American,Yes,2,Graduate,No,4400,0,127,360,0,Semiurban,N
+LP001940,Male,Caucasian,Yes,2,Graduate,No,3153,1560,134,360,1,Urban,Y
+LP001945,Female,Asian,No,1,Graduate,No,5417,0,143,480,0,Urban,N
+LP001947,Male,Caucasian,Yes,0,Graduate,No,2383,3334,172,360,1,Semiurban,Y
+LP001949,Male,Caucasian,Yes,3,Graduate,Yes,4416,1250,110,360,1,Urban,Y
+LP001953,Male,Other,Yes,1,Graduate,No,6875,0,200,360,1,Semiurban,Y
+LP001954,Female,Other,Yes,1,Graduate,No,4666,0,135,360,1,Urban,Y
+LP001955,Female,Asian,No,0,Graduate,No,5000,2541,151,480,1,Rural,N
+LP001963,Male,Caucasian,Yes,1,Graduate,No,2014,2925,113,360,1,Urban,N
+LP001964,Male,Hispanic,Yes,0,Not Graduate,No,1800,2934,93,360,0,Urban,N
+LP001972,Male,Native American,Yes,1,Not Graduate,No,2875,1750,105,360,1,Semiurban,Y
+LP001974,Female,Native American,No,0,Graduate,No,5000,0,132,360,1,Rural,Y
+LP001977,Male,Caucasian,Yes,1,Graduate,No,1625,1803,96,360,1,Urban,Y
+LP001978,Male,Caucasian,No,0,Graduate,No,4000,2500,140,360,1,Rural,Y
+LP001990,Male,Caucasian,No,0,Not Graduate,No,2000,0,50,360,1,Urban,N
+LP001993,Female,Hispanic,No,0,Graduate,No,3762,1666,135,360,1,Rural,Y
+LP001994,Female,Asian,No,0,Graduate,No,2400,1863,104,360,0,Urban,N
+LP001996,Male,Asian,No,0,Graduate,No,20233,0,480,360,1,Rural,N
+LP001998,Male,Native American,Yes,2,Not Graduate,No,7667,0,185,360,1,Rural,Y
+LP002002,Female,Caucasian,No,0,Graduate,No,2917,0,84,360,1,Semiurban,Y
+LP002004,Male,Native American,No,0,Not Graduate,No,2927,2405,111,360,1,Semiurban,Y
+LP002006,Female,Caucasian,No,0,Graduate,No,2507,0,56,360,1,Rural,Y
+LP002008,Male,Caucasian,Yes,2,Graduate,Yes,5746,0,144,84,1,Rural,Y
+LP002024,Female,Asian,Yes,0,Graduate,No,2473,1843,159,360,1,Rural,N
+LP002031,Male,Caucasian,Yes,1,Not Graduate,No,3399,1640,111,180,1,Urban,Y
+LP002035,Male,Caucasian,Yes,2,Graduate,No,3717,0,120,360,1,Semiurban,Y
+LP002036,Male,Caucasian,Yes,0,Graduate,No,2058,2134,88,360,0,Urban,Y
+LP002043,Female,Caucasian,No,1,Graduate,No,3541,0,112,360,1,Semiurban,Y
+LP002050,Male,Asian,Yes,1,Graduate,Yes,10000,0,155,360,1,Rural,N
+LP002051,Male,Caucasian,Yes,0,Graduate,No,2400,2167,115,360,1,Semiurban,Y
+LP002053,Male,Caucasian,Yes,3,Graduate,No,4342,189,124,360,1,Semiurban,Y
+LP002054,Male,Other,Yes,2,Not Graduate,No,3601,1590,60,360,1,Rural,Y
+LP002055,Female,Hispanic,No,0,Graduate,No,3166,2985,132,360,1,Rural,Y
+LP002065,Male,Other,Yes,3,Graduate,No,15000,0,300,360,1,Rural,Y
+LP002067,Male,African-American,Yes,1,Graduate,Yes,8666,4983,376,360,0,Rural,N
+LP002068,Male,Native American,No,0,Graduate,No,4917,0,130,360,0,Rural,Y
+LP002082,Male,Native American,Yes,0,Graduate,Yes,5818,2160,184,360,1,Semiurban,Y
+LP002086,Female,African-American,Yes,0,Graduate,No,4333,2451,110,360,1,Urban,N
+LP002087,Female,Native American,No,0,Graduate,No,2500,0,67,360,1,Urban,Y
+LP002097,Male,Native American,No,1,Graduate,No,4384,1793,117,360,1,Urban,Y
+LP002098,Male,Hispanic,No,0,Graduate,No,2935,0,98,360,1,Semiurban,Y
+LP002100,Male,Native American,No,1,Graduate,No,2833,0,71,360,1,Urban,Y
+LP002101,Male,Caucasian,Yes,0,Graduate,No,63337,0,490,180,1,Urban,Y
+LP002103,Female,Native American,Yes,1,Graduate,Yes,9833,1833,182,180,1,Urban,Y
+LP002106,Male,Caucasian,Yes,1,Graduate,Yes,5503,4490,70,180,1,Semiurban,Y
+LP002110,Male,Caucasian,Yes,1,Graduate,No,5250,688,160,360,1,Rural,Y
+LP002112,Male,Caucasian,Yes,2,Graduate,Yes,2500,4600,176,360,1,Rural,Y
+LP002113,Female,African-American,No,3,Not Graduate,No,1830,0,80,360,0,Urban,N
+LP002114,Female,Caucasian,No,0,Graduate,No,4160,0,71,360,1,Semiurban,Y
+LP002115,Male,African-American,Yes,3,Not Graduate,No,2647,1587,173,360,1,Rural,N
+LP002116,Female,African-American,No,0,Graduate,No,2378,0,46,360,1,Rural,N
+LP002119,Male,Caucasian,Yes,1,Not Graduate,No,4554,1229,158,360,1,Urban,Y
+LP002126,Male,Caucasian,Yes,3,Not Graduate,No,3173,0,74,360,1,Semiurban,Y
+LP002128,Male,Native American,Yes,2,Graduate,No,2583,2330,125,360,1,Rural,Y
+LP002129,Male,Native American,Yes,0,Graduate,No,2499,2458,160,360,1,Semiurban,Y
+LP002130,Male,Asian,Yes,1,Not Graduate,No,3523,3230,152,360,0,Rural,N
+LP002131,Male,Hispanic,Yes,2,Not Graduate,No,3083,2168,126,360,1,Urban,Y
+LP002137,Male,Hispanic,Yes,0,Graduate,No,6333,4583,259,360,1,Semiurban,Y
+LP002138,Male,Caucasian,Yes,0,Graduate,No,2625,6250,187,360,1,Rural,Y
+LP002139,Male,Caucasian,Yes,0,Graduate,No,9083,0,228,360,1,Semiurban,Y
+LP002140,Male,Native American,No,0,Graduate,No,8750,4167,308,360,1,Rural,N
+LP002141,Male,Hispanic,Yes,3,Graduate,No,2666,2083,95,360,1,Rural,Y
+LP002142,Female,Native American,Yes,0,Graduate,Yes,5500,0,105,360,0,Rural,N
+LP002143,Female,Hispanic,Yes,0,Graduate,No,2423,505,130,360,1,Semiurban,Y
+LP002144,Female,Caucasian,No,1,Graduate,No,3813,0,116,180,1,Urban,Y
+LP002149,Male,Caucasian,Yes,2,Graduate,No,8333,3167,165,360,1,Rural,Y
+LP002151,Male,Asian,Yes,1,Graduate,No,3875,0,67,360,1,Urban,N
+LP002158,Male,Caucasian,Yes,0,Not Graduate,No,3000,1666,100,480,0,Urban,N
+LP002160,Male,Caucasian,Yes,3,Graduate,No,5167,3167,200,360,1,Semiurban,Y
+LP002161,Female,Caucasian,No,1,Graduate,No,4723,0,81,360,1,Semiurban,N
+LP002170,Male,Caucasian,Yes,2,Graduate,No,5000,3667,236,360,1,Semiurban,Y
+LP002175,Male,Caucasian,Yes,0,Graduate,No,4750,2333,130,360,1,Urban,Y
+LP002178,Male,Caucasian,Yes,0,Graduate,No,3013,3033,95,300,1,Urban,Y
+LP002180,Male,Caucasian,No,0,Graduate,Yes,6822,0,141,360,1,Rural,Y
+LP002181,Male,African-American,No,0,Not Graduate,No,6216,0,133,360,1,Rural,N
+LP002187,Male,African-American,No,0,Graduate,No,2500,0,96,480,1,Semiurban,N
+LP002188,Male,Caucasian,No,0,Graduate,No,5124,0,124,360,0,Rural,N
+LP002190,Male,Caucasian,Yes,1,Graduate,No,6325,0,175,360,1,Semiurban,Y
+LP002191,Male,Native American,Yes,0,Graduate,No,19730,5266,570,360,1,Rural,N
+LP002194,Female,Caucasian,No,0,Graduate,Yes,15759,0,55,360,1,Semiurban,Y
+LP002197,Male,Caucasian,Yes,2,Graduate,No,5185,0,155,360,1,Semiurban,Y
+LP002201,Male,African-American,Yes,2,Graduate,Yes,9323,7873,380,300,1,Rural,Y
+LP002205,Male,Asian,No,1,Graduate,No,3062,1987,111,180,0,Urban,N
+LP002209,Female,African-American,No,0,Graduate,No,2764,1459,110,360,1,Urban,Y
+LP002211,Male,Caucasian,Yes,0,Graduate,No,4817,923,120,180,1,Urban,Y
+LP002219,Male,Hispanic,Yes,3,Graduate,No,8750,4996,130,360,1,Rural,Y
+LP002223,Male,Hispanic,Yes,0,Graduate,No,4310,0,130,360,1,Semiurban,Y
+LP002224,Male,Asian,No,0,Graduate,No,3069,0,71,480,1,Urban,N
+LP002225,Male,Hispanic,Yes,2,Graduate,No,5391,0,130,360,1,Urban,Y
+LP002226,Male,Hispanic,Yes,0,Graduate,No,3333,2500,128,360,1,Semiurban,Y
+LP002229,Male,Caucasian,No,0,Graduate,No,5941,4232,296,360,1,Semiurban,Y
+LP002231,Female,Caucasian,No,0,Graduate,No,6000,0,156,360,1,Urban,Y
+LP002234,Male,Caucasian,No,0,Graduate,Yes,7167,0,128,360,1,Urban,Y
+LP002236,Male,Asian,Yes,2,Graduate,No,4566,0,100,360,1,Urban,N
+LP002237,Male,Caucasian,No,1,Graduate,No,3667,0,113,180,1,Urban,Y
+LP002239,Male,Hispanic,No,0,Not Graduate,No,2346,1600,132,360,1,Semiurban,Y
+LP002243,Male,Asian,Yes,0,Not Graduate,No,3010,3136,30,360,0,Urban,N
+LP002244,Male,Hispanic,Yes,0,Graduate,No,2333,2417,136,360,1,Urban,Y
+LP002250,Male,Native American,Yes,0,Graduate,No,5488,0,125,360,1,Rural,Y
+LP002255,Male,Native American,No,3,Graduate,No,9167,0,185,360,1,Rural,Y
+LP002262,Male,Native American,Yes,3,Graduate,No,9504,0,275,360,1,Rural,Y
+LP002263,Male,Native American,Yes,0,Graduate,No,2583,2115,120,360,0,Urban,Y
+LP002265,Male,Other,Yes,2,Not Graduate,No,1993,1625,113,180,1,Semiurban,Y
+LP002266,Male,Hispanic,Yes,2,Graduate,No,3100,1400,113,360,1,Urban,Y
+LP002272,Male,Hispanic,Yes,2,Graduate,No,3276,484,135,360,0,Semiurban,Y
+LP002277,Female,Asian,No,0,Graduate,No,3180,0,71,360,0,Urban,N
+LP002281,Male,Other,Yes,0,Graduate,No,3033,1459,95,360,1,Urban,Y
+LP002284,Male,Other,No,0,Not Graduate,No,3902,1666,109,360,1,Rural,Y
+LP002287,Female,African-American,No,0,Graduate,No,1500,1800,103,360,0,Semiurban,N
+LP002288,Male,African-American,Yes,2,Not Graduate,No,2889,0,45,180,0,Urban,N
+LP002296,Male,African-American,No,0,Not Graduate,No,2755,0,65,300,1,Rural,N
+LP002297,Male,Caucasian,No,0,Graduate,No,2500,20000,103,360,1,Semiurban,Y
+LP002300,Female,Caucasian,No,0,Not Graduate,No,1963,0,53,360,1,Semiurban,Y
+LP002301,Female,Other,No,0,Graduate,Yes,7441,0,194,360,1,Rural,N
+LP002305,Female,Caucasian,No,0,Graduate,No,4547,0,115,360,1,Semiurban,Y
+LP002308,Male,Caucasian,Yes,0,Not Graduate,No,2167,2400,115,360,1,Urban,Y
+LP002314,Female,Caucasian,No,0,Not Graduate,No,2213,0,66,360,1,Rural,Y
+LP002315,Male,Asian,Yes,1,Graduate,No,8300,0,152,300,0,Semiurban,N
+LP002317,Male,Asian,Yes,3,Graduate,No,81000,0,360,360,0,Rural,N
+LP002318,Female,Caucasian,No,1,Not Graduate,Yes,3867,0,62,360,1,Semiurban,N
+LP002319,Male,Caucasian,Yes,0,Graduate,No,6256,0,160,360,1,Urban,Y
+LP002328,Male,Caucasian,Yes,0,Not Graduate,No,6096,0,218,360,0,Rural,N
+LP002332,Male,African-American,Yes,0,Not Graduate,No,2253,2033,110,360,1,Rural,Y
+LP002335,Female,Asian,Yes,0,Not Graduate,No,2149,3237,178,360,0,Semiurban,N
+LP002337,Female,African-American,No,0,Graduate,No,2995,0,60,360,1,Urban,Y
+LP002341,Female,Asian,No,1,Graduate,No,2600,0,160,360,1,Urban,N
+LP002342,Male,Asian,Yes,2,Graduate,Yes,1600,20000,239,360,1,Urban,N
+LP002345,Male,Native American,Yes,0,Graduate,No,1025,2773,112,360,1,Rural,Y
+LP002347,Male,Native American,Yes,0,Graduate,No,3246,1417,138,360,1,Semiurban,Y
+LP002348,Male,Native American,Yes,0,Graduate,No,5829,0,138,360,1,Rural,Y
+LP002357,Female,African-American,No,0,Not Graduate,No,2720,0,80,180,0,Urban,N
+LP002361,Male,Hispanic,Yes,0,Graduate,No,1820,1719,100,360,1,Urban,Y
+LP002362,Male,Native American,Yes,1,Graduate,No,7250,1667,110,360,0,Urban,N
+LP002364,Male,African-American,Yes,0,Graduate,No,14880,0,96,360,1,Semiurban,Y
+LP002366,Male,African-American,Yes,0,Graduate,No,2666,4300,121,360,1,Rural,Y
+LP002367,Female,Native American,No,1,Not Graduate,No,4606,0,81,360,1,Rural,N
+LP002368,Male,Hispanic,Yes,2,Graduate,No,5935,0,133,360,1,Semiurban,Y
+LP002369,Male,Hispanic,Yes,0,Graduate,No,2920,16.12000084,87,360,1,Rural,Y
+LP002370,Male,Caucasian,No,0,Not Graduate,No,2717,0,60,180,1,Urban,Y
+LP002377,Female,Caucasian,No,1,Graduate,Yes,8624,0,150,360,1,Semiurban,Y
+LP002379,Male,African-American,No,0,Graduate,No,6500,0,105,360,0,Rural,N
+LP002386,Male,Caucasian,No,0,Graduate,No,12876,0,405,360,1,Semiurban,Y
+LP002387,Male,Caucasian,Yes,0,Graduate,No,2425,2340,143,360,1,Semiurban,Y
+LP002390,Male,Caucasian,No,0,Graduate,No,3750,0,100,360,1,Urban,Y
+LP002393,Female,Caucasian,Yes,1,Graduate,No,10047,0,15,240,1,Semiurban,Y
+LP002398,Male,Hispanic,No,0,Graduate,No,1926,1851,50,360,1,Semiurban,Y
+LP002401,Male,Hispanic,Yes,0,Graduate,No,2213,1125,12,360,1,Urban,Y
+LP002403,Male,African-American,No,0,Graduate,Yes,10416,0,187,360,0,Urban,N
+LP002407,Female,Native American,Yes,0,Not Graduate,Yes,7142,0,138,360,1,Rural,Y
+LP002408,Male,Native American,No,0,Graduate,No,3660,5064,187,360,1,Semiurban,Y
+LP002409,Male,Native American,Yes,0,Graduate,No,7901,1833,180,360,1,Rural,Y
+LP002418,Male,Native American,No,3,Not Graduate,No,4707,1993,148,360,1,Semiurban,Y
+LP002422,Male,Native American,No,1,Graduate,No,37719,0,152,360,1,Semiurban,Y
+LP002424,Male,Hispanic,Yes,0,Graduate,No,7333,8333,175,300,1,Rural,Y
+LP002429,Male,Hispanic,Yes,1,Graduate,Yes,3466,1210,130,360,1,Rural,Y
+LP002434,Male,Hispanic,Yes,2,Not Graduate,No,4652,0,110,360,1,Rural,Y
+LP002435,Male,Caucasian,Yes,0,Graduate,No,3539,1376,55,360,1,Rural,N
+LP002443,Male,Caucasian,Yes,2,Graduate,No,3340,1710,150,360,0,Rural,N
+LP002444,Male,Caucasian,No,1,Not Graduate,Yes,2769,1542,190,360,1,Semiurban,N
+LP002446,Male,Asian,Yes,2,Not Graduate,No,2309,1255,125,360,0,Rural,N
+LP002447,Male,Caucasian,Yes,2,Not Graduate,No,1958,1456,60,300,1,Urban,Y
+LP002448,Male,Asian,Yes,0,Graduate,No,3948,1733,149,360,0,Rural,N
+LP002449,Male,Caucasian,Yes,0,Graduate,No,2483,2466,90,180,0,Rural,Y
+LP002453,Male,Caucasian,No,0,Graduate,Yes,7085,0,84,360,1,Semiurban,Y
+LP002455,Male,Caucasian,Yes,2,Graduate,No,3859,0,96,360,1,Semiurban,Y
+LP002459,Male,Caucasian,Yes,0,Graduate,No,4301,0,118,360,1,Urban,Y
+LP002467,Male,Asian,Yes,0,Graduate,No,3708,2569,173,360,1,Urban,N
+LP002472,Male,Caucasian,No,2,Graduate,No,4354,0,136,360,1,Rural,Y
+LP002473,Male,African-American,Yes,0,Graduate,No,8334,0,160,360,1,Semiurban,N
+LP002478,Male,Caucasian,Yes,0,Graduate,Yes,2083,4083,160,360,0,Semiurban,Y
+LP002484,Male,Caucasian,Yes,3,Graduate,No,7740,0,128,180,1,Urban,Y
+LP002487,Male,Other,Yes,0,Graduate,No,3015,2188,153,360,1,Rural,Y
+LP002489,Female,Native American,No,1,Not Graduate,No,5191,0,132,360,1,Semiurban,Y
+LP002493,Male,African-American,No,0,Graduate,No,4166,0,98,360,0,Semiurban,N
+LP002494,Male,Native American,No,0,Graduate,No,6000,0,140,360,1,Rural,Y
+LP002500,Male,African-American,Yes,3,Not Graduate,No,2947,1664,70,180,0,Urban,N
+LP002501,Female,Native American,Yes,0,Graduate,No,16692,0,110,360,1,Semiurban,Y
+LP002502,Female,Hispanic,Yes,2,Not Graduate,No,210,2917,98,360,1,Semiurban,Y
+LP002505,Male,Hispanic,Yes,0,Graduate,No,4333,2451,110,360,1,Urban,N
+LP002515,Male,Hispanic,Yes,1,Graduate,Yes,3450,2079,162,360,1,Semiurban,Y
+LP002517,Male,Hispanic,Yes,1,Not Graduate,No,2653,1500,113,180,0,Rural,N
+LP002519,Male,Other,Yes,3,Graduate,No,4691,0,100,360,1,Semiurban,Y
+LP002522,Female,Caucasian,No,0,Graduate,Yes,2500,0,93,360,1,Urban,Y
+LP002524,Male,Caucasian,No,2,Graduate,No,5532,4648,162,360,1,Rural,Y
+LP002527,Male,Caucasian,Yes,2,Graduate,Yes,16525,1014,150,360,1,Rural,Y
+LP002529,Male,Caucasian,Yes,2,Graduate,No,6700,1750,230,300,1,Semiurban,Y
+LP002530,Male,Hispanic,Yes,2,Graduate,No,2873,1872,132,360,0,Semiurban,N
+LP002531,Male,Caucasian,Yes,1,Graduate,Yes,16667,2250,86,360,1,Semiurban,Y
+LP002533,Male,Hispanic,Yes,2,Graduate,No,2947,1603,19,360,1,Urban,N
+LP002534,Female,Caucasian,No,0,Not Graduate,No,4350,0,154,360,1,Rural,Y
+LP002536,Male,Caucasian,Yes,3,Not Graduate,No,3095,0,113,360,1,Rural,Y
+LP002537,Male,Hispanic,Yes,0,Graduate,No,2083,3150,128,360,1,Semiurban,Y
+LP002541,Male,Hispanic,Yes,0,Graduate,No,10833,0,234,360,1,Semiurban,Y
+LP002543,Male,Hispanic,Yes,2,Graduate,No,8333,0,246,360,1,Semiurban,Y
+LP002544,Male,Native American,Yes,1,Not Graduate,No,1958,2436,131,360,1,Rural,Y
+LP002545,Male,Other,No,2,Graduate,No,3547,0,80,360,0,Rural,N
+LP002547,Male,African-American,Yes,1,Graduate,No,18333,0,500,360,1,Urban,N
+LP002555,Male,Native American,Yes,2,Graduate,Yes,4583,2083,160,360,1,Semiurban,Y
+LP002556,Male,Asian,No,0,Graduate,No,2435,0,75,360,1,Urban,N
+LP002560,Male,Native American,No,0,Not Graduate,No,2699,2785,96,360,0,Semiurban,Y
+LP002562,Male,Native American,Yes,1,Not Graduate,No,5333,1131,186,360,0,Urban,Y
+LP002571,Male,Native American,No,0,Not Graduate,No,3691,0,110,360,1,Rural,Y
+LP002582,Female,Native American,No,0,Not Graduate,Yes,17263,0,225,360,1,Semiurban,Y
+LP002585,Male,Asian,Yes,0,Graduate,No,3597,2157,119,360,0,Rural,N
+LP002586,Female,Hispanic,Yes,1,Graduate,No,3326,913,105,84,1,Semiurban,Y
+LP002587,Male,Other,Yes,0,Not Graduate,No,2600,1700,107,360,1,Rural,Y
+LP002588,Male,Caucasian,Yes,0,Graduate,No,4625,2857,111,12,1,Urban,Y
+LP002600,Male,Caucasian,Yes,1,Graduate,Yes,2895,0,95,360,1,Semiurban,Y
+LP002602,Male,Asian,No,0,Graduate,No,6283,4416,209,360,0,Rural,N
+LP002603,Female,Caucasian,No,0,Graduate,No,645,3683,113,480,1,Rural,Y
+LP002606,Female,Caucasian,No,0,Graduate,No,3159,0,100,360,1,Semiurban,Y
+LP002615,Male,Caucasian,Yes,2,Graduate,No,4865,5624,208,360,1,Semiurban,Y
+LP002618,Male,Caucasian,Yes,1,Not Graduate,No,4050,5302,138,360,1,Rural,N
+LP002619,Male,Caucasian,Yes,0,Not Graduate,No,3814,1483,124,300,1,Semiurban,Y
+LP002622,Male,Hispanic,Yes,2,Graduate,No,3510,4416,243,360,1,Rural,Y
+LP002624,Male,Hispanic,Yes,0,Graduate,No,20833,6667,480,360,0,Urban,Y
+LP002625,Female,Caucasian,No,0,Graduate,No,3583,0,96,360,1,Urban,N
+LP002626,Male,Hispanic,Yes,0,Graduate,Yes,2479,3013,188,360,1,Urban,Y
+LP002634,Female,Caucasian,No,1,Graduate,No,13262,0,40,360,1,Urban,Y
+LP002637,Male,Native American,No,0,Not Graduate,No,3598,1287,100,360,1,Rural,N
+LP002640,Male,Caucasian,Yes,1,Graduate,No,6065,2004,250,360,1,Semiurban,Y
+LP002643,Male,Caucasian,Yes,2,Graduate,No,3283,2035,148,360,1,Urban,Y
+LP002648,Male,Native American,Yes,0,Graduate,No,2130,6666,70,180,1,Semiurban,N
+LP002652,Male,Caucasian,No,0,Graduate,No,5815,3666,311,360,1,Rural,N
+LP002659,Male,Native American,Yes,3,Graduate,No,3466,3428,150,360,1,Rural,Y
+LP002670,Female,Native American,Yes,2,Graduate,No,2031,1632,113,480,1,Semiurban,Y
+LP002682,Male,Hispanic,Yes,1,Not Graduate,No,3074,1800,123,360,0,Semiurban,N
+LP002683,Male,Hispanic,No,0,Graduate,No,4683,1915,185,360,1,Semiurban,N
+LP002684,Female,Hispanic,No,0,Not Graduate,No,3400,0,95,360,1,Rural,N
+LP002689,Male,Native American,Yes,2,Not Graduate,No,2192,1742,45,360,1,Semiurban,Y
+LP002690,Male,Native American,No,0,Graduate,No,2500,0,55,360,1,Semiurban,Y
+LP002692,Male,Caucasian,Yes,3,Graduate,Yes,5677,1424,100,360,1,Rural,Y
+LP002693,Male,Caucasian,Yes,2,Graduate,Yes,7948,7166,480,360,1,Rural,Y
+LP002697,Male,Asian,No,0,Graduate,No,4680,2087,230,360,1,Semiurban,N
+LP002699,Male,Caucasian,Yes,2,Graduate,Yes,17500,0,400,360,1,Rural,Y
+LP002705,Male,Caucasian,Yes,0,Graduate,No,3775,0,110,360,1,Semiurban,Y
+LP002706,Male,Caucasian,Yes,1,Not Graduate,No,5285,1430,161,360,0,Semiurban,Y
+LP002714,Male,Caucasian,No,1,Not Graduate,No,2679,1302,94,360,1,Semiurban,Y
+LP002716,Male,Other,No,0,Not Graduate,No,6783,0,130,360,1,Semiurban,Y
+LP002717,Male,Other,Yes,0,Graduate,No,1025,5500,216,360,1,Rural,Y
+LP002720,Male,Native American,Yes,3,Graduate,No,4281,0,100,360,1,Urban,Y
+LP002723,Male,Asian,No,2,Graduate,No,3588,0,110,360,0,Rural,N
+LP002729,Male,Asian,No,1,Graduate,No,11250,0,196,360,0,Semiurban,N
+LP002731,Female,Caucasian,No,0,Not Graduate,Yes,18165,0,125,360,1,Urban,Y
+LP002732,Male,Caucasian,No,0,Not Graduate,No,2550,2042,126,360,1,Rural,Y
+LP002734,Male,Caucasian,Yes,0,Graduate,No,6133,3906,324,360,1,Urban,Y
+LP002738,Male,Native American,No,2,Graduate,No,3617,0,107,360,1,Semiurban,Y
+LP002739,Male,Asian,Yes,0,Not Graduate,No,2917,536,66,360,1,Rural,N
+LP002740,Male,Native American,Yes,3,Graduate,No,6417,0,157,180,1,Rural,Y
+LP002741,Female,Caucasian,Yes,1,Graduate,No,4608,2845,140,180,1,Semiurban,Y
+LP002743,Female,African-American,No,0,Graduate,No,2138,0,99,360,0,Semiurban,N
+LP002753,Female,Caucasian,No,1,Graduate,No,3652,0,95,360,1,Semiurban,Y
+LP002755,Male,Caucasian,Yes,1,Not Graduate,No,2239,2524,128,360,1,Urban,Y
+LP002757,Female,Caucasian,Yes,0,Not Graduate,No,3017,663,102,360,1,Semiurban,Y
+LP002767,Male,Caucasian,Yes,0,Graduate,No,2768,1950,155,360,1,Rural,Y
+LP002768,Male,African-American,No,0,Not Graduate,No,3358,0,80,36,1,Semiurban,N
+LP002772,Male,Caucasian,No,0,Graduate,No,2526,1783,145,360,1,Rural,Y
+LP002776,Female,African-American,No,0,Graduate,No,5000,0,103,360,0,Semiurban,N
+LP002777,Male,Native American,Yes,0,Graduate,No,2785,2016,110,360,1,Rural,Y
+LP002778,Male,Other,Yes,2,Graduate,Yes,6633,0,80,360,0,Rural,N
+LP002784,Male,Native American,Yes,1,Not Graduate,No,2492,2375,95,360,1,Rural,Y
+LP002785,Male,Native American,Yes,1,Graduate,No,3333,3250,158,360,1,Urban,Y
+LP002788,Male,Caucasian,Yes,0,Not Graduate,No,2454,2333,181,360,0,Urban,N
+LP002789,Male,Native American,Yes,0,Graduate,No,3593,4266,132,180,0,Rural,N
+LP002792,Male,Other,Yes,1,Graduate,No,5468,1032,26,360,1,Semiurban,Y
+LP002794,Female,Other,No,0,Graduate,No,2667,1625,84,360,0,Urban,Y
+LP002795,Male,Native American,Yes,3,Graduate,Yes,10139,0,260,360,1,Semiurban,Y
+LP002798,Male,Native American,Yes,0,Graduate,No,3887,2669,162,360,1,Semiurban,Y
+LP002804,Female,Other,Yes,0,Graduate,No,4180,2306,182,360,1,Semiurban,Y
+LP002807,Male,African-American,Yes,2,Not Graduate,No,3675,242,108,360,1,Semiurban,Y
+LP002813,Female,African-American,Yes,1,Graduate,Yes,19484,0,600,360,1,Semiurban,Y
+LP002820,Male,African-American,Yes,0,Graduate,No,5923,2054,211,360,1,Rural,Y
+LP002821,Male,African-American,No,0,Not Graduate,Yes,5800,0,132,360,1,Semiurban,Y
+LP002832,Male,Native American,Yes,2,Graduate,No,8799,0,258,360,0,Urban,N
+LP002833,Male,Native American,Yes,0,Not Graduate,No,4467,0,120,360,1,Rural,Y
+LP002836,Male,Caucasian,No,0,Graduate,No,3333,0,70,360,1,Urban,Y
+LP002837,Male,Native American,Yes,3,Graduate,No,3400,2500,123,360,0,Rural,N
+LP002840,Female,Caucasian,No,0,Graduate,No,2378,0,9,360,1,Urban,N
+LP002841,Male,Caucasian,Yes,0,Graduate,No,3166,2064,104,360,0,Urban,N
+LP002842,Male,Caucasian,Yes,1,Graduate,No,3417,1750,186,360,1,Urban,Y
+LP002847,Male,Caucasian,Yes,1,Graduate,No,5116,1451,165,360,0,Urban,N
+LP002855,Male,Native American,Yes,2,Graduate,No,16666,0,275,360,1,Urban,Y
+LP002862,Male,Hispanic,Yes,2,Not Graduate,No,6125,1625,187,480,1,Semiurban,N
+LP002863,Male,Hispanic,Yes,3,Graduate,No,6406,0,150,360,1,Semiurban,N
+LP002868,Male,Native American,Yes,2,Graduate,No,3159,461,108,84,1,Urban,Y
+LP002872,Male,Hispanic,Yes,0,Graduate,No,3087,2210,136,360,0,Semiurban,N
+LP002874,Male,Caucasian,No,0,Graduate,No,3229,2739,110,360,1,Urban,Y
+LP002877,Male,Caucasian,Yes,1,Graduate,No,1782,2232,107,360,1,Rural,Y
+LP002888,Male,Caucasian,No,0,Graduate,No,3182,2917,161,360,1,Urban,Y
+LP002892,Male,Caucasian,Yes,2,Graduate,No,6540,0,205,360,1,Semiurban,Y
+LP002893,Male,Asian,No,0,Graduate,No,1836,33837,90,360,1,Urban,N
+LP002894,Female,Caucasian,Yes,0,Graduate,No,3166,0,36,360,1,Semiurban,Y
+LP002898,Male,Asian,Yes,1,Graduate,No,1880,0,61,360,1,Rural,N
+LP002911,Male,Asian,Yes,1,Graduate,No,2787,1917,146,360,0,Rural,N
+LP002912,Male,Asian,Yes,1,Graduate,No,4283,3000,172,84,1,Rural,N
+LP002916,Male,Caucasian,Yes,0,Graduate,No,2297,1522,104,360,1,Urban,Y
+LP002917,Female,Caucasian,No,0,Not Graduate,No,2165,0,70,360,1,Semiurban,Y
+LP002925,Female,Caucasian,No,0,Graduate,No,4750,0,94,360,1,Semiurban,Y
+LP002926,Male,Asian,Yes,2,Graduate,Yes,2726,0,106,360,0,Semiurban,N
+LP002928,Male,Hispanic,Yes,0,Graduate,No,3000,3416,56,180,1,Semiurban,Y
+LP002931,Male,African-American,Yes,2,Graduate,Yes,6000,0,205,240,1,Semiurban,N
+LP002933,Female,Hispanic,No,3,Graduate,Yes,9357,0,292,360,1,Semiurban,Y
+LP002936,Male,Hispanic,Yes,0,Graduate,No,3859,3300,142,180,1,Rural,Y
+LP002938,Male,Other,Yes,0,Graduate,Yes,16120,0,260,360,1,Urban,Y
+LP002940,Male,Native American,No,0,Not Graduate,No,3833,0,110,360,1,Rural,Y
+LP002941,Male,African-American,Yes,2,Not Graduate,Yes,6383,1000,187,360,1,Rural,N
+LP002943,Male,African-American,No,1,Graduate,No,2987,0,88,360,0,Semiurban,N
+LP002945,Male,Native American,Yes,0,Graduate,Yes,9963,0,180,360,1,Rural,Y
+LP002948,Male,Native American,Yes,2,Graduate,No,5780,0,192,360,1,Urban,Y
+LP002949,Female,African-American,No,3,Graduate,No,416,41667,350,180,1,Urban,N
+LP002950,Male,Native American,Yes,0,Not Graduate,No,2894,2792,155,360,1,Rural,Y
+LP002953,Male,Hispanic,Yes,3,Graduate,No,5703,0,128,360,1,Urban,Y
+LP002958,Male,Hispanic,No,0,Graduate,No,3676,4301,172,360,1,Rural,Y
+LP002959,Female,African-American,Yes,1,Graduate,No,12000,0,496,360,1,Semiurban,Y
+LP002960,Male,African-American,Yes,0,Not Graduate,No,2400,3800,50,180,1,Urban,N
+LP002961,Male,Caucasian,Yes,1,Graduate,No,3400,2500,173,360,1,Semiurban,Y
+LP002964,Male,Caucasian,Yes,2,Not Graduate,No,3987,1411,157,360,1,Rural,Y
+LP002974,Male,Hispanic,Yes,0,Graduate,No,3232,1950,108,360,1,Rural,Y
+LP002978,Female,Caucasian,No,0,Graduate,No,2900,0,71,360,1,Rural,Y
+LP002979,Male,Caucasian,Yes,3,Graduate,No,4106,0,40,180,1,Rural,Y
+LP002983,Male,Caucasian,Yes,1,Graduate,No,8072,240,253,360,1,Urban,Y
+LP002984,Male,Caucasian,Yes,2,Graduate,No,7583,0,187,360,1,Urban,Y
+LP002990,Female,Caucasian,No,0,Graduate,Yes,4583,0,133,360,0,Semiurban,N
+LP001015,Male,Caucasian,Yes,0,Graduate,No,5720,0,110,360,1,Urban,Y
+LP001022,Male,Caucasian,Yes,1,Graduate,No,3076,1500,126,360,1,Urban,Y
+LP001031,Male,Other,Yes,2,Graduate,No,5000,1800,208,360,1,Urban,Y
+LP001035,Male,Other,Yes,2,Graduate,No,2340,2546,100,360,1,Urban,Y
+LP001051,Male,Native American,No,0,Not Graduate,No,3276,0,78,360,1,Urban,N
+LP001054,Male,Caucasian,Yes,0,Not Graduate,Yes,2165,3422,152,360,1,Urban,Y
+LP001055,Female,Caucasian,No,1,Not Graduate,No,2226,0,59,360,1,Semiurban,Y
+LP001056,Male,Native American,Yes,2,Not Graduate,No,3881,0,147,360,0,Rural,N
+LP001059,Male,Other,Yes,2,Graduate,No,13633,0,280,240,1,Urban,Y
+LP001067,Male,Native American,No,0,Not Graduate,No,2400,2400,123,360,1,Semiurban,Y
+LP001078,Male,Native American,No,0,Not Graduate,No,3091,0,90,360,1,Urban,Y
+LP001082,Male,Native American,Yes,1,Graduate,No,2185,1516,162,360,1,Semiurban,Y
+LP001083,Male,Asian,No,3,Graduate,No,4166,0,40,180,1,Urban,Y
+LP001094,Male,Native American,Yes,2,Graduate,No,12173,0,166,360,0,Semiurban,N
+LP001096,Female,Asian,No,0,Graduate,No,4666,0,124,360,1,Semiurban,Y
+LP001099,Male,Asian,No,1,Graduate,No,5667,0,131,360,1,Urban,Y
+LP001105,Male,Asian,Yes,2,Graduate,No,4583,2916,200,360,1,Urban,Y
+LP001107,Male,Asian,Yes,3,Graduate,No,3786,333,126,360,1,Semiurban,Y
+LP001108,Male,Asian,Yes,0,Graduate,No,9226,7916,300,360,1,Urban,Y
+LP001115,Male,Asian,No,0,Graduate,No,1300,3470,100,180,1,Semiurban,Y
+LP001121,Male,Other,Yes,1,Not Graduate,No,1888,1620,48,360,1,Urban,Y
+LP001124,Female,Other,No,3,Not Graduate,No,2083,0,28,180,1,Urban,Y
+LP001128,Female,Caucasian,No,0,Graduate,No,3909,0,101,360,1,Urban,Y
+LP001135,Female,Caucasian,No,0,Not Graduate,No,3765,0,125,360,1,Urban,Y
+LP001149,Male,Caucasian,Yes,0,Graduate,No,5400,4380,290,360,1,Urban,Y
+LP001153,Male,Caucasian,No,0,Graduate,No,0,24000,148,360,0,Rural,N
+LP001163,Male,Caucasian,Yes,2,Graduate,No,4363,1250,140,360,1,Urban,Y
+LP001169,Male,Caucasian,Yes,0,Graduate,No,7500,3750,275,360,1,Urban,Y
+LP001174,Male,Caucasian,Yes,0,Graduate,No,3772,833,57,360,0,Semiurban,Y
+LP001176,Male,Other,No,0,Graduate,No,2942,2382,125,180,1,Urban,Y
+LP001177,Female,Asian,No,0,Not Graduate,No,2478,0,75,360,1,Semiurban,Y
+LP001183,Male,Asian,Yes,2,Graduate,No,6250,820,192,360,1,Urban,Y
+LP001185,Male,African-American,No,0,Graduate,No,3268,1683,152,360,1,Semiurban,Y
+LP001187,Male,African-American,Yes,0,Graduate,No,2783,2708,158,360,1,Urban,Y
+LP001190,Male,Asian,Yes,0,Graduate,No,2740,1541,101,360,1,Urban,Y
+LP001203,Male,Caucasian,No,0,Graduate,No,3150,0,176,360,0,Semiurban,N
+LP001208,Male,Asian,Yes,2,Graduate,No,7350,4029,185,180,1,Urban,Y
+LP001210,Male,Native American,Yes,0,Graduate,Yes,2267,2792,90,360,1,Urban,Y
+LP001211,Male,Native American,No,0,Graduate,Yes,5833,0,116,360,1,Urban,Y
+LP001219,Male,Native American,No,0,Graduate,No,3643,1963,138,360,1,Urban,Y
+LP001220,Male,Caucasian,Yes,0,Graduate,No,5629,818,100,360,1,Urban,Y
+LP001221,Female,Caucasian,No,0,Graduate,No,3644,0,110,360,1,Urban,Y
+LP001226,Male,Caucasian,Yes,0,Not Graduate,No,1750,2024,90,360,1,Semiurban,Y
+LP001230,Male,Asian,No,0,Graduate,No,6500,2600,200,360,1,Semiurban,Y
+LP001231,Female,Asian,No,0,Graduate,No,3666,0,84,360,1,Urban,Y
+LP001232,Male,Asian,Yes,0,Graduate,No,4260,3900,185,360,0,Urban,Y
+LP001237,Male,Caucasian,Yes,1,Not Graduate,No,4163,1475,162,360,1,Urban,Y
+LP001242,Male,Native American,No,0,Not Graduate,No,2356,1902,108,360,1,Semiurban,Y
+LP001268,Male,Native American,No,0,Graduate,No,6792,3338,187,360,1,Urban,Y
+LP001270,Male,Native American,Yes,3,Not Graduate,Yes,8000,250,187,360,1,Semiurban,Y
+LP001284,Male,Caucasian,Yes,1,Graduate,No,2419,1707,124,360,1,Urban,Y
+LP001287,Female,Caucasian,Yes,3,Not Graduate,No,3500,833,120,360,1,Semiurban,Y
+LP001291,Male,Caucasian,Yes,1,Graduate,No,3500,3077,160,360,1,Semiurban,Y
+LP001298,Male,Caucasian,Yes,2,Graduate,No,4116,1000,30,180,1,Urban,Y
+LP001312,Male,Caucasian,Yes,0,Not Graduate,Yes,5293,0,92,360,1,Urban,Y
+LP001313,Male,Hispanic,No,0,Graduate,No,2750,0,130,360,0,Urban,N
+LP001317,Female,Caucasian,No,0,Not Graduate,No,4402,0,130,360,1,Rural,Y
+LP001321,Male,Native American,Yes,2,Graduate,No,3613,3539,134,180,1,Semiurban,Y
+LP001323,Female,Hispanic,Yes,2,Graduate,No,2779,3664,176,360,0,Semiurban,N
+LP001324,Male,Native American,Yes,3,Graduate,No,4720,0,90,180,1,Semiurban,Y
+LP001332,Male,Asian,Yes,0,Not Graduate,No,2415,1721,110,360,1,Semiurban,Y
+LP001335,Male,Asian,Yes,0,Graduate,Yes,7016,292,125,360,1,Urban,Y
+LP001338,Female,Asian,No,2,Graduate,No,4968,0,189,360,1,Semiurban,Y
+LP001347,Female,Hispanic,No,0,Graduate,No,2101,1500,108,360,0,Rural,N
+LP001348,Male,Asian,Yes,3,Not Graduate,No,4490,0,125,360,1,Urban,Y
+LP001351,Male,African-American,Yes,0,Graduate,No,2917,3583,138,360,1,Semiurban,Y
+LP001352,Male,Hispanic,Yes,0,Not Graduate,No,4700,0,135,360,0,Semiurban,N
+LP001358,Male,Asian,Yes,0,Graduate,No,3445,0,130,360,0,Semiurban,N
+LP001359,Male,African-American,Yes,0,Graduate,No,7666,0,187,360,1,Semiurban,Y
+LP001361,Male,Asian,Yes,0,Graduate,No,2458,5105,188,360,0,Rural,N
+LP001366,Female,African-American,No,1,Graduate,No,3250,0,95,360,1,Semiurban,Y
+LP001368,Male,Hispanic,No,0,Graduate,No,4463,0,65,360,1,Semiurban,Y
+LP001375,Male,Hispanic,Yes,1,Graduate,No,4083,1775,139,60,1,Urban,Y
+LP001380,Male,Hispanic,Yes,0,Graduate,Yes,3900,2094,232,360,1,Rural,Y
+LP001386,Male,Native American,Yes,0,Not Graduate,No,4750,3583,144,360,1,Semiurban,Y
+LP001400,Male,Native American,No,0,Graduate,No,3583,3435,155,360,1,Urban,Y
+LP001407,Male,Native American,Yes,0,Graduate,No,3189,2367,186,360,1,Urban,Y
+LP001413,Male,Native American,No,0,Graduate,Yes,6356,0,50,360,1,Rural,Y
+LP001415,Male,Native American,Yes,1,Graduate,No,3413,4053,10,360,1,Semiurban,Y
+LP001419,Female,African-American,Yes,0,Graduate,No,7950,0,185,360,1,Urban,Y
+LP001420,Male,Asian,Yes,3,Graduate,No,3829,1103,163,360,0,Urban,N
+LP001428,Male,African-American,Yes,3,Graduate,No,72529,0,360,360,1,Urban,Y
+LP001445,Male,Asian,Yes,2,Not Graduate,No,4136,0,149,480,0,Rural,N
+LP001446,Male,Asian,Yes,0,Graduate,No,8449,0,257,360,1,Rural,N
+LP001450,Male,African-American,Yes,0,Graduate,No,4456,0,131,180,0,Semiurban,N
+LP001452,Male,Asian,Yes,2,Graduate,No,4635,8000,102,180,1,Rural,Y
+LP001455,Male,Asian,Yes,0,Graduate,No,3571,1917,135,360,1,Urban,Y
+LP001466,Male,Asian,No,0,Graduate,No,3066,0,95,360,1,Semiurban,Y
+LP001471,Male,African-American,No,2,Not Graduate,No,3235,2015,77,360,1,Semiurban,Y
+LP001472,Female,African-American,No,0,Graduate,No,5058,0,200,360,1,Rural,N
+LP001475,Male,African-American,Yes,0,Graduate,Yes,3188,2286,130,360,1,Rural,Y
+LP001483,Male,Hispanic,Yes,3,Graduate,No,13518,0,390,360,1,Rural,Y
+LP001486,Male,Hispanic,Yes,1,Graduate,No,4364,2500,185,360,1,Semiurban,Y
+LP001490,Male,Native American,Yes,2,Not Graduate,No,4766,1646,100,360,1,Semiurban,Y
+LP001496,Male,African-American,Yes,1,Graduate,No,4609,2333,123,360,0,Semiurban,N
+LP001499,Female,Caucasian,Yes,3,Graduate,No,6260,0,110,360,1,Semiurban,Y
+LP001500,Male,Caucasian,Yes,1,Graduate,No,3333,4200,256,360,1,Urban,Y
+LP001501,Male,Caucasian,Yes,0,Graduate,No,3500,3250,140,360,1,Semiurban,Y
+LP001517,Male,Other,Yes,3,Graduate,No,9719,0,61,360,1,Urban,Y
+LP001527,Male,Other,Yes,3,Graduate,No,6835,0,188,360,1,Semiurban,Y
+LP001534,Male,Asian,No,0,Graduate,No,4452,0,131,360,1,Rural,Y
+LP001542,Female,Other,Yes,0,Graduate,No,2262,0,5,480,0,Semiurban,N
+LP001547,Male,Asian,Yes,1,Graduate,No,3901,0,116,360,1,Urban,Y
+LP001548,Male,Asian,Yes,2,Not Graduate,No,2687,0,50,180,1,Rural,Y
+LP001558,Male,Hispanic,No,0,Graduate,No,2243,2233,107,360,0,Semiurban,Y
+LP001561,Female,Hispanic,Yes,0,Graduate,No,3417,1287,200,360,1,Semiurban,Y
+LP001563,Male,Caucasian,No,0,Graduate,No,1596,1760,119,360,0,Urban,N
+LP001567,Male,Hispanic,Yes,3,Graduate,No,4513,0,120,360,1,Rural,Y
+LP001568,Male,Native American,Yes,0,Graduate,No,4500,0,140,360,1,Semiurban,Y
+LP001573,Male,Native American,Yes,0,Not Graduate,No,4523,1350,165,360,1,Urban,Y
+LP001584,Female,Native American,No,0,Graduate,Yes,4742,0,108,360,1,Semiurban,Y
+LP001587,Male,Native American,Yes,1,Graduate,No,4082,0,93,360,1,Semiurban,Y
+LP001589,Female,Native American,No,0,Graduate,No,3417,0,102,360,1,Urban,Y
+LP001591,Female,Other,Yes,2,Graduate,No,2922,3396,122,360,1,Semiurban,Y
+LP001599,Male,Asian,Yes,0,Graduate,No,4167,4754,160,360,1,Rural,Y
+LP001601,Male,Asian,No,3,Graduate,No,4243,4123,157,360,0,Semiurban,Y
+LP001607,Female,Native American,No,0,Not Graduate,No,0,1760,180,360,1,Semiurban,N
+LP001611,Male,Caucasian,Yes,1,Graduate,No,1516,2900,80,180,0,Rural,N
+LP001613,Female,Caucasian,No,0,Graduate,No,1762,2666,104,360,0,Urban,N
+LP001622,Male,Hispanic,Yes,2,Graduate,No,724,3510,213,360,0,Rural,N
+LP001627,Male,Asian,No,0,Graduate,No,3125,0,65,360,1,Urban,Y
+LP001650,Male,African-American,Yes,0,Graduate,No,2333,3803,146,360,1,Rural,Y
+LP001651,Male,African-American,Yes,3,Graduate,No,3350,1560,135,360,1,Urban,Y
+LP001652,Male,Hispanic,No,0,Graduate,No,2500,6414,187,360,0,Rural,N
+LP001655,Female,Hispanic,No,0,Graduate,No,12500,0,300,360,0,Urban,N
+LP001660,Male,African-American,No,0,Graduate,No,4667,0,120,360,1,Semiurban,Y
+LP001662,Male,Hispanic,No,0,Graduate,No,6500,0,71,360,0,Urban,N
+LP001663,Male,Other,Yes,2,Graduate,No,7500,0,225,360,1,Urban,Y
+LP001667,Male,Caucasian,No,0,Graduate,No,3073,0,70,180,1,Urban,Y
+LP001695,Male,Caucasian,Yes,1,Not Graduate,No,3321,2088,70,180,1,Semiurban,Y
+LP001703,Male,Caucasian,Yes,0,Graduate,No,3333,1270,124,360,1,Urban,Y
+LP001718,Male,Hispanic,No,0,Graduate,No,3391,0,132,360,1,Rural,N
+LP001728,Male,Caucasian,Yes,1,Graduate,Yes,3343,1517,105,360,1,Rural,Y
+LP001735,Female,Caucasian,No,1,Graduate,No,3620,0,90,360,1,Urban,Y
+LP001737,Male,Caucasian,No,0,Graduate,No,4000,0,83,84,1,Urban,Y
+LP001739,Male,Caucasian,Yes,0,Graduate,No,4258,0,125,360,1,Urban,Y
+LP001742,Male,Caucasian,Yes,2,Graduate,No,4500,0,147,360,1,Rural,Y
+LP001757,Male,Other,Yes,1,Graduate,No,2014,2925,120,360,1,Rural,Y
+LP001769,Male,Other,No,1,Graduate,No,3333,1250,110,360,1,Semiurban,Y
+LP001771,Female,Native American,No,3,Graduate,No,4083,0,103,360,1,Semiurban,Y
+LP001785,Male,Asian,No,0,Graduate,No,4727,0,150,360,0,Rural,N
+LP001787,Male,Native American,Yes,3,Graduate,No,3089,2999,100,240,1,Rural,Y
+LP001789,Male,Asian,Yes,3,Not Graduate,No,6794,528,139,360,0,Urban,N
+LP001791,Male,Native American,Yes,0,Graduate,Yes,32000,0,550,360,1,Semiurban,Y
+LP001794,Male,Native American,Yes,2,Graduate,Yes,10890,0,260,12,1,Rural,Y
+LP001797,Female,Hispanic,No,0,Graduate,No,12941,0,150,300,1,Urban,Y
+LP001815,Male,Native American,No,0,Not Graduate,No,3276,0,90,360,1,Semiurban,Y
+LP001817,Male,Asian,No,0,Not Graduate,Yes,8703,0,199,360,0,Rural,N
+LP001818,Male,Asian,Yes,1,Graduate,No,4742,717,139,360,1,Semiurban,Y
+LP001822,Male,Asian,No,0,Graduate,No,5900,0,150,360,1,Urban,Y
+LP001827,Male,Asian,No,0,Graduate,No,3071,4309,180,360,1,Urban,Y
+LP001831,Male,African-American,Yes,0,Graduate,No,2783,1456,113,360,1,Urban,Y
+LP001842,Male,African-American,No,0,Graduate,No,5000,0,148,360,1,Rural,Y
+LP001853,Male,Asian,Yes,1,Not Graduate,No,2463,2360,117,360,0,Urban,N
+LP001855,Male,African-American,Yes,2,Graduate,No,4855,0,72,360,1,Rural,Y
+LP001857,Male,Native American,No,0,Not Graduate,Yes,1599,2474,125,300,1,Semiurban,Y
+LP001862,Male,Native American,Yes,2,Graduate,Yes,4246,4246,214,360,1,Urban,Y
+LP001867,Male,Asian,Yes,0,Graduate,No,4333,2291,133,350,1,Rural,N
+LP001878,Male,Native American,No,1,Graduate,No,5823,2529,187,360,1,Semiurban,Y
+LP001881,Male,African-American,Yes,0,Not Graduate,No,7895,0,143,360,1,Rural,N
+LP001886,Male,Native American,No,0,Graduate,No,4150,4256,209,360,1,Rural,Y
+LP001906,Male,African-American,No,0,Graduate,No,2964,0,84,360,0,Semiurban,N
+LP001909,Male,Native American,No,0,Graduate,No,5583,0,116,360,1,Urban,Y
+LP001911,Female,Native American,No,0,Graduate,No,2708,0,65,360,1,Rural,Y
+LP001921,Male,Native American,No,1,Graduate,No,3180,2370,80,240,1,Rural,Y
+LP001923,Male,African-American,No,0,Not Graduate,No,2268,0,170,360,0,Semiurban,N
+LP001933,Male,Other,No,2,Not Graduate,No,1141,2017,120,360,0,Urban,N
+LP001943,Male,Native American,Yes,0,Graduate,No,3042,3167,135,360,1,Urban,Y
+LP001950,Female,Other,Yes,3,Graduate,No,1750,2935,94,360,0,Semiurban,N
+LP001959,Female,Hispanic,Yes,1,Graduate,No,3564,0,79,360,1,Rural,N
+LP001961,Female,African-American,No,0,Graduate,No,3958,0,110,360,1,Rural,Y
+LP001973,Male,African-American,Yes,2,Not Graduate,No,4483,0,130,360,1,Rural,Y
+LP001975,Male,Hispanic,Yes,0,Graduate,No,5225,0,143,360,1,Rural,N
+LP001979,Male,Hispanic,No,0,Graduate,No,3017,2845,159,180,0,Urban,N
+LP001995,Male,Asian,Yes,0,Not Graduate,No,2431,1820,110,360,0,Rural,N
+LP001999,Male,African-American,Yes,2,Graduate,No,4912,4614,160,360,1,Rural,Y
+LP002007,Male,Native American,Yes,2,Not Graduate,No,2500,3333,131,360,1,Urban,Y
+LP002009,Female,Native American,No,0,Graduate,No,2918,0,65,360,1,Rural,Y
+LP002016,Male,Hispanic,Yes,2,Graduate,No,5128,0,143,360,1,Rural,Y
+LP002017,Male,Hispanic,Yes,3,Graduate,No,15312,0,187,360,0,Urban,Y
+LP002018,Male,Other,Yes,2,Graduate,No,3958,2632,160,360,1,Semiurban,Y
+LP002027,Male,Other,Yes,0,Graduate,No,4334,2945,165,360,1,Semiurban,Y
+LP002028,Male,Caucasian,Yes,2,Graduate,No,4358,0,110,360,1,Urban,Y
+LP002042,Female,Caucasian,Yes,1,Graduate,No,4000,3917,173,360,1,Rural,Y
+LP002045,Male,Caucasian,Yes,3,Graduate,No,10166,750,150,360,1,Urban,Y
+LP002046,Male,Caucasian,Yes,0,Not Graduate,No,4483,0,135,360,1,Semiurban,Y
+LP002047,Male,African-American,Yes,2,Not Graduate,No,4521,1184,150,360,1,Semiurban,Y
+LP002056,Male,African-American,Yes,2,Graduate,No,9167,0,235,360,1,Semiurban,Y
+LP002057,Male,Hispanic,Yes,0,Not Graduate,No,13083,0,6,360,1,Rural,Y
+LP002059,Male,Native American,Yes,2,Graduate,No,7874,3967,336,360,1,Rural,Y
+LP002062,Female,Native American,Yes,1,Graduate,No,4333,0,132,84,1,Rural,Y
+LP002064,Male,Hispanic,No,0,Graduate,No,4083,0,96,360,1,Urban,Y
+LP002069,Male,Asian,Yes,2,Not Graduate,No,3785,2912,180,360,0,Rural,N
+LP002070,Male,Asian,Yes,3,Not Graduate,No,2654,1998,128,360,0,Rural,N
+LP002077,Male,African-American,Yes,1,Graduate,No,10000,2690,412,360,1,Semiurban,N
+LP002083,Male,Hispanic,No,0,Graduate,Yes,5833,0,116,360,1,Urban,Y
+LP002090,Male,African-American,Yes,1,Graduate,No,4796,0,114,360,0,Semiurban,N
+LP002096,Male,Hispanic,Yes,0,Not Graduate,No,2000,1600,115,360,1,Rural,Y
+LP002099,Male,African-American,Yes,2,Graduate,No,2540,700,104,360,0,Urban,N
+LP002102,Male,Native American,Yes,0,Graduate,Yes,1900,1442,88,360,1,Rural,Y
+LP002105,Male,Native American,Yes,0,Graduate,Yes,8706,0,108,480,1,Rural,Y
+LP002107,Male,Native American,Yes,3,Not Graduate,No,2855,542,90,360,1,Urban,Y
+LP002111,Male,Caucasian,Yes,1,Graduate,No,3016,1300,100,360,0,Urban,Y
+LP002117,Female,Caucasian,Yes,0,Graduate,No,3159,2374,108,360,1,Semiurban,Y
+LP002118,Female,Caucasian,No,0,Graduate,No,1937,1152,78,360,1,Semiurban,Y
+LP002123,Male,Hispanic,Yes,0,Graduate,No,2613,2417,123,360,1,Semiurban,Y
+LP002125,Male,Hispanic,Yes,1,Graduate,No,4960,2600,187,360,1,Semiurban,Y
+LP002148,Male,Asian,Yes,1,Graduate,No,3074,1083,146,360,1,Semiurban,Y
+LP002152,Female,African-American,No,0,Graduate,No,4213,0,80,360,1,Urban,N
+LP002165,Female,Asian,No,1,Not Graduate,No,2038,4027,100,360,1,Rural,Y
+LP002167,Female,Asian,No,0,Graduate,No,2362,0,55,360,1,Urban,Y
+LP002168,Male,Other,No,0,Graduate,No,5333,2400,200,360,0,Rural,N
+LP002172,Male,Asian,Yes,3,Graduate,Yes,5384,0,150,360,1,Semiurban,Y
+LP002176,Male,Hispanic,No,0,Graduate,No,5708,0,150,360,1,Rural,Y
+LP002183,Male,African-American,Yes,0,Not Graduate,No,3754,3719,118,180,1,Rural,Y
+LP002184,Male,African-American,Yes,0,Not Graduate,No,2914,2130,150,300,1,Urban,Y
+LP002186,Male,Hispanic,Yes,0,Not Graduate,No,2747,2458,118,36,1,Semiurban,Y
+LP002192,Male,Hispanic,Yes,0,Graduate,No,7830,2183,212,360,1,Rural,Y
+LP002195,Male,Native American,Yes,1,Graduate,Yes,3507,3148,212,360,1,Rural,Y
+LP002208,Male,Native American,Yes,1,Graduate,No,3747,2139,125,360,1,Urban,Y
+LP002212,Male,Native American,Yes,0,Graduate,No,2166,2166,108,360,1,Urban,Y
+LP002240,Male,Caucasian,Yes,0,Not Graduate,No,3500,2168,149,360,1,Rural,Y
+LP002245,Male,Caucasian,Yes,2,Not Graduate,No,2896,0,80,480,1,Urban,Y
+LP002253,Female,Caucasian,No,1,Graduate,No,5062,0,152,300,1,Rural,Y
+LP002256,Female,Other,No,2,Graduate,Yes,5184,0,187,360,0,Semiurban,N
+LP002257,Female,African-American,No,0,Graduate,No,2545,0,74,360,1,Urban,Y
+LP002264,Male,African-American,Yes,0,Graduate,No,2553,1768,102,360,1,Urban,Y
+LP002270,Male,African-American,Yes,1,Graduate,No,3436,3809,100,360,1,Rural,Y
+LP002279,Male,African-American,No,0,Graduate,No,2412,2755,130,360,1,Rural,Y
+LP002286,Male,Native American,Yes,3,Not Graduate,No,5180,0,125,360,0,Urban,N
+LP002294,Male,African-American,No,0,Graduate,No,14911,14507,130,360,1,Semiurban,Y
+LP002298,Female,African-American,No,0,Graduate,Yes,2860,2988,138,360,1,Urban,Y
+LP002306,Male,Hispanic,Yes,0,Graduate,No,1173,1594,28,180,1,Rural,Y
+LP002310,Female,Caucasian,No,1,Graduate,No,7600,0,92,360,1,Semiurban,Y
+LP002311,Female,Caucasian,Yes,0,Graduate,No,2157,1788,104,360,1,Urban,Y
+LP002316,Male,Native American,No,0,Graduate,No,2231,2774,176,360,0,Urban,N
+LP002321,Female,Native American,No,0,Graduate,No,2274,5211,117,360,0,Semiurban,N
+LP002325,Male,Caucasian,Yes,2,Not Graduate,No,6166,13983,102,360,1,Rural,Y
+LP002326,Male,Caucasian,Yes,2,Not Graduate,No,2513,1110,107,360,1,Semiurban,Y
+LP002329,Male,Caucasian,No,0,Graduate,No,4333,0,66,480,1,Urban,N
+LP002333,Male,Asian,No,0,Not Graduate,No,3844,0,105,360,1,Urban,Y
+LP002339,Male,Other,Yes,0,Graduate,No,3887,1517,105,360,0,Semiurban,N
+LP002344,Male,Asian,Yes,0,Graduate,No,3510,828,105,360,1,Semiurban,Y
+LP002346,Male,Hispanic,Yes,0,Graduate,No,2539,1704,125,360,0,Rural,N
+LP002354,Female,Asian,No,0,Not Graduate,No,2107,0,64,360,1,Semiurban,Y
+LP002355,Male,Hispanic,Yes,0,Graduate,No,3186,3145,150,180,0,Semiurban,N
+LP002358,Male,Asian,Yes,2,Graduate,Yes,5000,2166,150,360,1,Urban,Y
+LP002360,Male,Asian,Yes,1,Graduate,No,10000,0,90,360,1,Urban,Y
+LP002375,Male,Hispanic,Yes,0,Not Graduate,Yes,3943,0,64,360,1,Semiurban,Y
+LP002376,Male,African-American,No,0,Graduate,No,2925,0,40,180,1,Rural,Y
+LP002383,Male,Hispanic,Yes,3,Graduate,No,3242,437,142,480,0,Urban,N
+LP002385,Male,African-American,Yes,1,Graduate,No,3863,0,70,300,1,Semiurban,Y
+LP002389,Female,African-American,No,1,Graduate,No,4028,0,131,360,1,Semiurban,Y
+LP002394,Male,African-American,Yes,2,Graduate,No,4010,1025,120,360,1,Urban,Y
+LP002397,Female,African-American,Yes,1,Graduate,No,3719,1585,114,360,1,Urban,Y
+LP002399,Male,Hispanic,No,0,Graduate,No,2858,0,123,360,0,Rural,N
+LP002400,Female,Native American,Yes,0,Graduate,No,3833,0,92,360,1,Rural,Y
+LP002402,Male,Native American,Yes,0,Graduate,No,3333,4288,160,360,1,Urban,Y
+LP002412,Male,Native American,Yes,0,Graduate,No,3007,3725,151,360,1,Rural,Y
+LP002415,Female,Hispanic,No,1,Graduate,No,1850,4583,81,360,1,Rural,N
+LP002417,Male,Native American,Yes,3,Not Graduate,No,2792,2619,171,360,1,Semiurban,Y
+LP002420,Male,Asian,Yes,0,Graduate,No,2982,1550,110,360,1,Semiurban,Y
+LP002425,Male,Asian,No,0,Graduate,No,3417,738,100,360,1,Rural,N
+LP002433,Male,Asian,Yes,1,Graduate,No,18840,0,234,360,1,Rural,Y
+LP002440,Male,Asian,Yes,2,Graduate,No,2995,1120,184,360,1,Rural,Y
+LP002441,Male,Asian,No,1,Graduate,No,3579,3308,138,360,1,Semiurban,Y
+LP002442,Female,Asian,Yes,1,Not Graduate,No,3835,1400,112,480,0,Urban,N
+LP002445,Female,African-American,No,1,Not Graduate,No,3854,3575,117,360,1,Rural,Y
+LP002450,Male,Asian,Yes,2,Graduate,No,5833,750,49,360,0,Rural,N
+LP002471,Male,Asian,No,0,Graduate,No,3508,0,99,360,1,Rural,N
+LP002476,Female,African-American,Yes,3,Not Graduate,No,1635,2444,99,360,1,Urban,Y
+LP002482,Female,African-American,No,0,Graduate,Yes,3333,3916,212,360,1,Rural,Y
+LP002485,Male,African-American,No,1,Graduate,No,24797,0,240,360,1,Semiurban,Y
+LP002495,Male,African-American,Yes,2,Graduate,No,5667,440,130,360,0,Semiurban,N
+LP002496,Female,African-American,No,0,Graduate,No,3500,0,94,360,0,Semiurban,N
+LP002523,Male,African-American,Yes,3,Graduate,No,2773,1497,108,360,1,Semiurban,Y
+LP002542,Male,Caucasian,Yes,0,Graduate,No,6500,0,144,360,1,Urban,Y
+LP002550,Female,Caucasian,No,0,Graduate,No,5769,0,110,180,1,Semiurban,Y
+LP002551,Male,African-American,Yes,3,Not Graduate,No,3634,910,176,360,0,Semiurban,N
+LP002553,Male,Caucasian,No,0,Graduate,No,29167,0,185,360,1,Semiurban,Y
+LP002554,Male,Caucasian,No,0,Graduate,No,2166,2057,122,360,1,Semiurban,Y
+LP002561,Male,Hispanic,Yes,0,Graduate,No,5000,0,126,360,1,Rural,Y
+LP002566,Female,Asian,No,0,Graduate,No,5530,0,135,360,1,Urban,Y
+LP002568,Male,Asian,No,0,Not Graduate,No,9000,0,122,360,1,Rural,Y
+LP002570,Female,Asian,Yes,2,Graduate,No,10000,11666,460,360,1,Urban,Y
+LP002572,Male,Other,Yes,1,Graduate,Yes,8750,0,297,360,1,Urban,Y
+LP002581,Male,Other,Yes,0,Not Graduate,No,2157,2730,140,360,1,Rural,Y
+LP002584,Male,Native American,No,0,Graduate,No,1972,4347,106,360,1,Rural,Y
+LP002592,Male,Native American,No,0,Graduate,No,4983,0,141,360,1,Urban,Y
+LP002593,Male,Native American,Yes,1,Graduate,No,8333,4000,56,360,1,Urban,Y
+LP002599,Male,Native American,Yes,0,Graduate,No,3667,2000,170,360,1,Semiurban,Y
+LP002604,Male,African-American,Yes,2,Graduate,No,3166,2833,145,360,1,Urban,Y
+LP002605,Male,African-American,No,0,Not Graduate,No,3271,0,90,360,1,Rural,N
+LP002609,Female,African-American,Yes,0,Graduate,No,2241,2000,88,360,0,Urban,N
+LP002610,Male,African-American,Yes,1,Not Graduate,No,1792,2565,128,360,1,Urban,Y
+LP002612,Female,Asian,Yes,0,Graduate,No,2666,0,84,480,1,Semiurban,Y
+LP002614,Female,Asian,No,0,Graduate,No,6478,0,108,360,1,Semiurban,Y
+LP002630,Male,Hispanic,No,0,Not Graduate,No,3808,0,83,360,1,Rural,N
+LP002635,Female,Asian,Yes,2,Not Graduate,No,3729,0,117,360,1,Semiurban,Y
+LP002639,Male,Asian,Yes,2,Graduate,No,4120,0,128,360,1,Rural,Y
+LP002644,Male,Hispanic,Yes,1,Graduate,Yes,7500,0,75,360,1,Urban,Y
+LP002651,Male,Hispanic,Yes,1,Graduate,No,6300,0,125,360,0,Urban,N
+LP002654,Female,Hispanic,No,1,Graduate,Yes,14987,0,177,360,1,Rural,Y
+LP002657,Male,Caucasian,Yes,1,Not Graduate,Yes,570,2125,68,360,1,Rural,Y
+LP002711,Male,Caucasian,Yes,0,Graduate,No,2600,700,96,360,1,Semiurban,Y
+LP002712,Male,Caucasian,No,2,Not Graduate,No,2733,1083,180,360,1,Semiurban,Y
+LP002721,Male,Caucasian,Yes,2,Graduate,Yes,7500,0,183,360,1,Rural,Y
+LP002735,Male,Caucasian,Yes,2,Not Graduate,No,3859,0,121,360,1,Rural,Y
+LP002744,Male,African-American,Yes,1,Graduate,No,6825,0,162,360,1,Rural,Y
+LP002745,Male,African-American,Yes,0,Graduate,No,3708,4700,132,360,1,Semiurban,Y
+LP002746,Male,African-American,No,0,Graduate,No,5314,0,147,360,1,Urban,Y
+LP002747,Female,Hispanic,No,3,Graduate,No,2366,5272,153,360,0,Rural,N
+LP002754,Male,African-American,No,1,Graduate,No,2066,2108,104,84,1,Urban,Y
+LP002759,Male,Hispanic,Yes,2,Graduate,No,5000,0,149,360,1,Rural,Y
+LP002760,Female,Native American,No,0,Graduate,No,3767,0,134,300,1,Urban,Y
+LP002766,Female,Native American,Yes,0,Graduate,No,7859,879,165,180,1,Semiurban,Y
+LP002769,Female,Native American,Yes,0,Graduate,No,4283,0,120,360,1,Rural,Y
+LP002774,Male,Hispanic,Yes,0,Not Graduate,No,1700,2900,67,360,0,Urban,N
+LP002775,Female,Native American,No,0,Not Graduate,No,4768,0,125,360,1,Rural,Y
+LP002781,Male,Other,No,0,Graduate,No,3083,2738,120,360,1,Urban,Y
+LP002782,Male,Other,Yes,1,Graduate,No,2667,1542,148,360,1,Rural,Y
+LP002786,Female,Other,Yes,0,Not Graduate,No,1647,1762,181,360,1,Urban,Y
+LP002790,Male,Other,Yes,3,Graduate,No,3400,0,80,120,1,Urban,Y
+LP002791,Male,Other,No,1,Graduate,No,16000,5000,40,360,1,Semiurban,Y
+LP002793,Male,Caucasian,Yes,0,Graduate,No,5333,0,90,360,1,Rural,Y
+LP002802,Male,Asian,No,0,Graduate,No,2875,2416,95,6,0,Semiurban,N
+LP002803,Male,Caucasian,Yes,1,Not Graduate,No,2600,618,122,360,1,Semiurban,Y
+LP002805,Male,Caucasian,Yes,2,Graduate,No,5041,700,150,360,1,Urban,Y
+LP002806,Male,Caucasian,Yes,3,Graduate,Yes,6958,1411,150,360,1,Rural,Y
+LP002816,Male,Caucasian,Yes,1,Graduate,No,3500,1658,104,360,1,Semiurban,Y
+LP002823,Male,Caucasian,Yes,0,Graduate,No,5509,0,143,360,1,Rural,Y
+LP002825,Male,Caucasian,Yes,3,Graduate,No,9699,0,300,360,1,Urban,Y
+LP002826,Female,Hispanic,Yes,1,Not Graduate,No,3621,2717,171,360,1,Urban,Y
+LP002843,Female,Hispanic,Yes,0,Graduate,No,4709,0,113,360,1,Semiurban,Y
+LP002849,Male,Asian,Yes,0,Graduate,No,1516,1951,35,360,1,Semiurban,Y
+LP002850,Male,Asian,No,2,Graduate,No,2400,0,46,360,1,Urban,Y
+LP002853,Female,African-American,No,0,Not Graduate,No,3015,2000,145,360,1,Urban,Y
+LP002856,Male,African-American,Yes,0,Graduate,No,2292,1558,119,360,1,Urban,Y
+LP002857,Male,African-American,Yes,1,Graduate,Yes,2360,3355,87,240,1,Rural,Y
+LP002858,Female,Asian,No,0,Graduate,No,4333,2333,162,360,0,Rural,N
+LP002860,Male,Hispanic,Yes,0,Graduate,Yes,2623,4831,122,180,1,Semiurban,Y
+LP002867,Male,Hispanic,No,0,Graduate,Yes,3972,4275,187,360,1,Rural,Y
+LP002869,Male,Asian,Yes,3,Not Graduate,No,3522,0,81,180,1,Rural,N
+LP002870,Male,Native American,Yes,1,Graduate,No,4700,0,80,360,1,Urban,Y
+LP002876,Male,Native American,No,0,Graduate,No,6858,0,176,360,1,Rural,Y
+LP002878,Male,Hispanic,Yes,3,Graduate,No,8334,0,260,360,1,Urban,Y
+LP002879,Male,Asian,Yes,0,Graduate,No,3391,1966,133,360,0,Rural,N
+LP002885,Male,African-American,No,0,Not Graduate,No,2868,0,70,360,1,Urban,Y
+LP002890,Male,African-American,Yes,2,Not Graduate,No,3418,1380,135,360,1,Urban,Y
+LP002891,Male,African-American,Yes,0,Graduate,Yes,2500,296,137,300,1,Rural,Y
+LP002899,Male,Caucasian,Yes,2,Graduate,No,8667,0,254,360,1,Rural,Y
+LP002901,Male,Caucasian,No,0,Graduate,No,2283,15000,106,360,1,Rural,Y
+LP002907,Male,Caucasian,Yes,0,Graduate,No,5817,910,109,360,1,Urban,Y
+LP002920,Male,Caucasian,Yes,0,Graduate,No,5119,3769,120,360,1,Rural,Y
+LP002921,Male,Caucasian,Yes,3,Not Graduate,No,5316,187,158,180,0,Semiurban,Y
+LP002932,Male,Caucasian,Yes,3,Graduate,No,7603,1213,197,360,1,Urban,Y
+LP002935,Male,Asian,Yes,1,Graduate,No,3791,1936,85,360,1,Urban,Y
+LP002952,Male,Native American,No,0,Graduate,No,2500,0,60,360,1,Urban,Y
+LP002954,Male,Native American,Yes,2,Not Graduate,No,3132,0,76,360,1,Rural,Y
+LP002962,Male,Native American,No,0,Graduate,No,4000,2667,152,360,1,Semiurban,Y
+LP002965,Female,Native American,Yes,0,Graduate,No,8550,4255,96,360,1,Urban,Y
+LP002969,Male,Asian,Yes,1,Graduate,No,2269,2167,99,360,1,Semiurban,Y
+LP002971,Male,Caucasian,Yes,3,Not Graduate,Yes,4009,1777,113,360,1,Urban,Y
+LP002975,Male,Caucasian,Yes,0,Graduate,No,4158,709,115,360,1,Urban,Y
+LP002980,Male,Caucasian,No,0,Graduate,No,3250,1993,126,360,1,Semiurban,Y
+LP002986,Male,African-American,Yes,0,Graduate,No,5000,2393,158,360,1,Rural,N
+LP002989,Male,Caucasian,No,0,Graduate,Yes,9200,0,98,180,1,Rural,Y
