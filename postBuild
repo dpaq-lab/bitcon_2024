@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# Enable Jupyter extensions if needed
+jupyter nbextension enable --py --sys-prefix widgetsnbextension
+
+# Install additional system dependencies if needed for AIF360
+# (This script runs after pip install requirements.txt)
+
+echo "Binder environment setup complete!"
