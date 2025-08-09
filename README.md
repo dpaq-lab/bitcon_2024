@@ -14,4 +14,4 @@ The salary notebook:
 -  Uses the AIF360 package to mitigate bias
 -  Takes a look at bias metrics and strategies to adjust the model during the inprocessing stage
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpaq-lab/bitcon_2024/HEAD)
