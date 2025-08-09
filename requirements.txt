@@ -4,9 +4,10 @@ scipy>=1.7.0
 
 scikit-learn>=1.0.0
 aif360>=0.5.0
-fairlearn>=0.8.0
+fairlearn[all]>=0.8.0
 raiutils
-
+raiwidgets>=0.30.0
+lightgbm
 jupyter>=1.0.0
 notebook>=6.4.0
 ipykernel>=6.0.0
@@ -16,3 +17,13 @@ seaborn>=0.11.0
 
 cvxpy>=1.2.0
 numba>=0.56.0
+
+# Interactive dashboard support
+responsibleai>=0.28.0
+interpret-community>=0.28.0
+azureml-sdk[notebooks]>=1.50.0
+
+# Widget support for Jupyter
+ipywidgets>=7.6.0
+widgetsnbextension>=3.5.0
+
